@@ -93,35 +93,12 @@
 .end method
 
 .method private hasZoneReward()Z
-    .locals 2
+    .locals 1
 
-    .prologue
-    .line 106
-    :try_start_0
-    const-string v1, "41bcfabe"
+    # PATCH: no ad backend -> never a rewarded ad available.
+    const/4 v0, 0x0
 
-    invoke-static {v1}, Lcom/fusepowered/FuseSDK;->zoneHasRewarded(Ljava/lang/String;)Z
-    :try_end_0
-    .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_0} :catch_0
-
-    move-result v1
-
-    .line 109
-    :goto_0
-    return v1
-
-    .line 107
-    :catch_0
-    move-exception v0
-
-    .line 108
-    .local v0, "exc":Ljava/lang/Exception;
-    invoke-static {v0}, Lcom/crashlytics/android/Crashlytics;->logException(Ljava/lang/Throwable;)V
-
-    .line 109
-    const/4 v1, 0x0
-
-    goto :goto_0
+    return v0
 .end method
 
 .method private setupFuseboxGameConfig()V
@@ -318,60 +295,26 @@
 .end method
 
 .method public goldValueHasChanged(I)V
-    .locals 1
+    .locals 0
     .param p1, "currentGoldAmount"    # I
 
-    .prologue
-    .line 225
-    new-instance v0, Lcom/chillingo/puzzlecraft/android/ajagplay/PuzzleCraftFuseActivity$6;
-
-    invoke-direct {v0, p0, p1}, Lcom/chillingo/puzzlecraft/android/ajagplay/PuzzleCraftFuseActivity$6;-><init>(Lcom/chillingo/puzzlecraft/android/ajagplay/PuzzleCraftFuseActivity;I)V
-
-    invoke-virtual {p0, v0}, Lcom/chillingo/puzzlecraft/android/ajagplay/PuzzleCraftFuseActivity;->runOnUiThread(Ljava/lang/Runnable;)V
-
-    .line 231
+    # PATCH: only reported gold to Fuse analytics (no session exists).
     return-void
 .end method
 
 .method protected initializeAds()V
-    .locals 3
+    .locals 0
 
-    .prologue
-    .line 54
-    new-instance v0, Lcom/chillingo/puzzlecraft/android/ajagplay/PuzzleCraftFuseActivity$1;
-
-    invoke-direct {v0, p0}, Lcom/chillingo/puzzlecraft/android/ajagplay/PuzzleCraftFuseActivity$1;-><init>(Lcom/chillingo/puzzlecraft/android/ajagplay/PuzzleCraftFuseActivity;)V
-
-    .line 71
-    .local v0, "fuseSDKListenerWrapper":Lcom/fusepowered/FuseSDKListener;
-    const-string v1, "a8fd0193-20eb-4b7d-997b-a1614c3f55ba"
-
-    const/4 v2, 0x0
-
-    invoke-static {v1, p0, v0, v2}, Lcom/fusepowered/FuseSDK;->startSession(Ljava/lang/String;Landroid/app/Activity;Lcom/fusepowered/FuseSDKListener;Ljava/util/HashMap;)V
-
-    .line 72
-    const/4 v1, 0x1
-
-    iput-boolean v1, p0, Lcom/chillingo/puzzlecraft/android/ajagplay/PuzzleCraftFuseActivity;->mIsFuseActive:Z
-
-    .line 73
+    # PATCH: Fuse ad/analytics backend is long dead; never start a session.
+    # mIsFuseActive stays false, so onPause/onResume/onDestroy skip Fuse too.
     return-void
 .end method
 
 .method public levelHasChanged(I)V
-    .locals 1
+    .locals 0
     .param p1, "currentLevel"    # I
 
-    .prologue
-    .line 215
-    new-instance v0, Lcom/chillingo/puzzlecraft/android/ajagplay/PuzzleCraftFuseActivity$5;
-
-    invoke-direct {v0, p0, p1}, Lcom/chillingo/puzzlecraft/android/ajagplay/PuzzleCraftFuseActivity$5;-><init>(Lcom/chillingo/puzzlecraft/android/ajagplay/PuzzleCraftFuseActivity;I)V
-
-    invoke-virtual {p0, v0}, Lcom/chillingo/puzzlecraft/android/ajagplay/PuzzleCraftFuseActivity;->runOnUiThread(Ljava/lang/Runnable;)V
-
-    .line 221
+    # PATCH: only reported level to Fuse analytics (no session exists).
     return-void
 .end method
 
@@ -555,17 +498,9 @@
 .end method
 
 .method protected showRewardAd()V
-    .locals 1
+    .locals 0
 
-    .prologue
-    .line 89
-    new-instance v0, Lcom/chillingo/puzzlecraft/android/ajagplay/PuzzleCraftFuseActivity$2;
-
-    invoke-direct {v0, p0}, Lcom/chillingo/puzzlecraft/android/ajagplay/PuzzleCraftFuseActivity$2;-><init>(Lcom/chillingo/puzzlecraft/android/ajagplay/PuzzleCraftFuseActivity;)V
-
-    invoke-virtual {p0, v0}, Lcom/chillingo/puzzlecraft/android/ajagplay/PuzzleCraftFuseActivity;->runOnUiThread(Ljava/lang/Runnable;)V
-
-    .line 95
+    # PATCH: no ad backend.
     return-void
 .end method
 
