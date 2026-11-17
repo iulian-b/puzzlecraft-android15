@@ -1,0 +1,80 @@
+.class Lcom/fusepowered/as/AerServInterstitial$3;
+.super Ljava/lang/Object;
+.source "AerServInterstitial.java"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/fusepowered/as/AerServInterstitial;-><init>(Lcom/fusepowered/as/AerServConfig;)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic this$0:Lcom/fusepowered/as/AerServInterstitial;
+
+.field final synthetic val$config:Lcom/fusepowered/as/AerServConfig;
+
+
+# direct methods
+.method constructor <init>(Lcom/fusepowered/as/AerServInterstitial;Lcom/fusepowered/as/AerServConfig;)V
+    .locals 0
+
+    .prologue
+    .line 45
+    iput-object p1, p0, Lcom/fusepowered/as/AerServInterstitial$3;->this$0:Lcom/fusepowered/as/AerServInterstitial;
+
+    iput-object p2, p0, Lcom/fusepowered/as/AerServInterstitial$3;->val$config:Lcom/fusepowered/as/AerServConfig;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public run()V
+    .locals 5
+
+    .prologue
+    .line 48
+    invoke-static {}, Landroid/os/Looper;->prepare()V
+
+    .line 49
+    new-instance v0, Lcom/fusepowered/as/controller/command/ExecutePlacementCommand;
+
+    iget-object v1, p0, Lcom/fusepowered/as/AerServInterstitial$3;->val$config:Lcom/fusepowered/as/AerServConfig;
+
+    invoke-static {}, Lcom/fusepowered/as/AerServInterstitial;->access$200()Lcom/fusepowered/as/AerServAdType;
+
+    move-result-object v2
+
+    iget-object v3, p0, Lcom/fusepowered/as/AerServInterstitial$3;->this$0:Lcom/fusepowered/as/AerServInterstitial;
+
+    invoke-static {v3}, Lcom/fusepowered/as/AerServInterstitial;->access$300(Lcom/fusepowered/as/AerServInterstitial;)Lcom/fusepowered/as/controller/listener/ExecutePlacementListener;
+
+    move-result-object v3
+
+    iget-object v4, p0, Lcom/fusepowered/as/AerServInterstitial$3;->this$0:Lcom/fusepowered/as/AerServInterstitial;
+
+    invoke-static {v4}, Lcom/fusepowered/as/AerServInterstitial;->access$400(Lcom/fusepowered/as/AerServInterstitial;)Lcom/fusepowered/as/controller/listener/SaveShowListener;
+
+    move-result-object v4
+
+    invoke-direct {v0, v1, v2, v3, v4}, Lcom/fusepowered/as/controller/command/ExecutePlacementCommand;-><init>(Lcom/fusepowered/as/AerServConfig;Lcom/fusepowered/as/AerServAdType;Lcom/fusepowered/as/controller/listener/ExecutePlacementListener;Lcom/fusepowered/as/controller/listener/SaveShowListener;)V
+
+    invoke-virtual {v0}, Lcom/fusepowered/as/controller/command/ExecutePlacementCommand;->execute()V
+
+    .line 50
+    invoke-static {}, Landroid/os/Looper;->loop()V
+
+    .line 51
+    return-void
+.end method

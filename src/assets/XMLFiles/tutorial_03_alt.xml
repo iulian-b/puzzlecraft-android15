@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="finger">
+		<frame index="0">
+			<item x="0" y="224" rotation="-39.10163879394531" depth="0" scaleX="0.998382568359375" scaleY="0.998382568359375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="9">
+			<item x="0" y="224" rotation="-39.10163879394531" depth="0" scaleX="0.998382568359375" scaleY="0.998382568359375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="11">
+			<item x="-2.7" y="218.75" rotation="-39.09953308105469" depth="0" scaleX="0.9965972900390625" scaleY="0.9965972900390625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="14">
+			<item x="-13.65" y="197.3" rotation="-39.098480224609375" depth="0" scaleX="0.9958953857421875" scaleY="0.9958953857421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="18">
+			<item x="-32.95" y="159.65" rotation="-39.09742736816406" depth="0" scaleX="0.9946746826171875" scaleY="0.9946746826171875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="19">
+			<item x="-37.45" y="150.8" rotation="-39.09794616699219" depth="0" scaleX="0.994384765625" scaleY="0.994384765625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="22">
+			<item x="-47.7" y="130.75" rotation="-39.09742736816406" depth="0" scaleX="0.9937286376953125" scaleY="0.9937286376953125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="24">
+			<item x="-50.15" y="126.05" rotation="-39.098480224609375" depth="0" scaleX="0.99517822265625" scaleY="0.99517822265625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="29">
+			<item x="-50.15" y="126.05" rotation="-39.098480224609375" depth="0" scaleX="0.99517822265625" scaleY="0.99517822265625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="31">
+			<item x="-58.9" y="120.95" rotation="-39.09953308105469" depth="0" scaleX="0.8970794677734375" scaleY="0.8970794677734375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="-58.9" y="120.95" rotation="-39.09953308105469" depth="0" scaleX="0.8970794677734375" scaleY="0.8970794677734375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="112">
+			<item x="-40.9" y="149.95" rotation="-39.098480224609375" depth="0" scaleX="1.00335693359375" scaleY="1.00335693359375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="117">
+			<item x="-16.9" y="193.35" rotation="-39.098480224609375" depth="0" scaleX="0.998809814453125" scaleY="0.998809814453125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="121">
+			<item x="-5.2" y="214.5" rotation="-39.1005859375" depth="0" scaleX="0.997406005859375" scaleY="0.997406005859375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="124">
+			<item x="-0.85" y="222.5" rotation="-39.1005859375" depth="0" scaleX="0.9968719482421875" scaleY="0.9968719482421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="126">
+			<item x="0" y="224" rotation="-39.10163879394531" depth="0" scaleX="0.998382568359375" scaleY="0.998382568359375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="132">
+			<item x="0" y="224" rotation="-39.10163879394531" depth="0" scaleX="0.998382568359375" scaleY="0.998382568359375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="tutorial_03_01">
+		<frame index="64">
+			<item x="-85.7" y="33.2" rotation="0" depth="1" scaleX="0.0829925537109375" scaleY="0.0829925537109375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="68">
+			<item x="-116.75" y="42.65" rotation="0" depth="1" scaleX="0.9129791259765625" scaleY="0.9129791259765625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="72">
+			<item x="-113.65" y="41.7" rotation="0" depth="1" scaleX="0.829986572265625" scaleY="0.829986572265625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="-113.65" y="41.7" rotation="0" depth="1" scaleX="0.829986572265625" scaleY="0.829986572265625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="112">
+			<item x="-85.7" y="33.2" rotation="0" depth="1" scaleX="0.0829925537109375" scaleY="0.0829925537109375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grain">
+		<frame index="64">
+			<item x="-87.75" y="31.35" rotation="0" depth="2" scaleX="0.0643463134765625" scaleY="0.0643463134765625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="68">
+			<item x="-139.25" y="22" rotation="0" depth="2" scaleX="0.7078857421875" scaleY="0.7078857421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="72">
+			<item x="-134.1" y="22.9" rotation="0" depth="2" scaleX="0.6435394287109375" scaleY="0.6435394287109375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="-134.1" y="22.9" rotation="0" depth="2" scaleX="0.6435394287109375" scaleY="0.6435394287109375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="112">
+			<item x="-87.75" y="31.35" rotation="0" depth="2" scaleX="0.0643463134765625" scaleY="0.0643463134765625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="tutorial_02_01">
+		<frame index="64">
+			<item x="-75.65" y="33.2" rotation="0" depth="3" scaleX="0.0829925537109375" scaleY="0.0829925537109375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="68">
+			<item x="-6.15" y="42.65" rotation="0" depth="3" scaleX="0.9129791259765625" scaleY="0.9129791259765625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="72">
+			<item x="-13.1" y="41.7" rotation="0" depth="3" scaleX="0.829986572265625" scaleY="0.829986572265625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="-13.1" y="41.7" rotation="0" depth="3" scaleX="0.829986572265625" scaleY="0.829986572265625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="112">
+			<item x="-75.65" y="33.2" rotation="0" depth="3" scaleX="0.0829925537109375" scaleY="0.0829925537109375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="carrot_spring">
+		<frame index="64">
+			<item x="-77.7" y="31.35" rotation="0" depth="4" scaleX="0.0643463134765625" scaleY="0.0643463134765625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="68">
+			<item x="-28.4" y="22" rotation="0" depth="4" scaleX="0.7078857421875" scaleY="0.7078857421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="72">
+			<item x="-33.3" y="22.9" rotation="0" depth="4" scaleX="0.6435394287109375" scaleY="0.6435394287109375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="-33.3" y="22.9" rotation="0" depth="4" scaleX="0.6435394287109375" scaleY="0.6435394287109375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="112">
+			<item x="-77.7" y="31.35" rotation="0" depth="4" scaleX="0.0643463134765625" scaleY="0.0643463134765625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="resource_tooltip_info">
+		<frame index="64">
+			<item x="-82.6" y="32.25" rotation="0" depth="5" scaleX="0.0829925537109375" scaleY="0.0829925537109375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="68">
+			<item x="-82.6" y="32.25" rotation="0" depth="5" scaleX="0.9129791259765625" scaleY="0.9129791259765625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="72">
+			<item x="-82.6" y="32.25" rotation="0" depth="5" scaleX="0.829986572265625" scaleY="0.829986572265625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="-82.6" y="32.25" rotation="0" depth="5" scaleX="0.829986572265625" scaleY="0.829986572265625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="112">
+			<item x="-82.6" y="32.25" rotation="0" depth="5" scaleX="0.0829925537109375" scaleY="0.0829925537109375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="dot">
+		<frame index="31">
+			<item x="-80.95" y="87.25" rotation="0" depth="14" scaleX="0.829986572265625" scaleY="0.829986572265625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="-80.95" y="87.25" rotation="0" depth="14" scaleX="0.829986572265625" scaleY="0.829986572265625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grain">
+		<frame index="0">
+			<item x="169.25" y="87.25" rotation="0" depth="15" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="30">
+			<item x="169.25" y="87.25" rotation="0" depth="15" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="31">
+			<item x="169.25" y="87.25" rotation="0" depth="15" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="169.25" y="87.25" rotation="0" depth="15" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="110">
+			<item x="169.25" y="87.25" rotation="0" depth="15" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grain">
+		<frame index="0">
+			<item x="-80.95" y="87.25" rotation="0" depth="16" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="30">
+			<item x="-80.95" y="87.25" rotation="0" depth="16" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="31">
+			<item x="-80.95" y="87.25" rotation="0" depth="16" scaleX="0.74688720703125" scaleY="0.74688720703125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="-80.95" y="87.25" rotation="0" depth="16" scaleX="0.74688720703125" scaleY="0.74688720703125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="110">
+			<item x="-80.95" y="87.25" rotation="0" depth="16" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grain">
+		<frame index="0">
+			<item x="85.85" y="4.25" rotation="0" depth="17" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="30">
+			<item x="85.85" y="4.25" rotation="0" depth="17" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="31">
+			<item x="85.85" y="4.25" rotation="0" depth="17" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="85.85" y="4.25" rotation="0" depth="17" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="110">
+			<item x="85.85" y="4.25" rotation="0" depth="17" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grain">
+		<frame index="0">
+			<item x="2.45" y="4.25" rotation="0" depth="18" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="30">
+			<item x="2.45" y="4.25" rotation="0" depth="18" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="31">
+			<item x="2.45" y="4.25" rotation="0" depth="18" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="2.45" y="4.25" rotation="0" depth="18" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="110">
+			<item x="2.45" y="4.25" rotation="0" depth="18" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grain">
+		<frame index="0">
+			<item x="-164.35" y="4.25" rotation="0" depth="19" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="30">
+			<item x="-164.35" y="4.25" rotation="0" depth="19" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="31">
+			<item x="-164.35" y="4.25" rotation="0" depth="19" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="-164.35" y="4.25" rotation="0" depth="19" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="110">
+			<item x="-164.35" y="4.25" rotation="0" depth="19" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grain">
+		<frame index="0">
+			<item x="169.25" y="4.25" rotation="0" depth="20" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="30">
+			<item x="169.25" y="4.25" rotation="0" depth="20" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="31">
+			<item x="169.25" y="4.25" rotation="0" depth="20" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="169.25" y="4.25" rotation="0" depth="20" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="110">
+			<item x="169.25" y="4.25" rotation="0" depth="20" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grain">
+		<frame index="0">
+			<item x="169.25" y="-78.75" rotation="0" depth="21" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="30">
+			<item x="169.25" y="-78.75" rotation="0" depth="21" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="31">
+			<item x="169.25" y="-78.75" rotation="0" depth="21" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="169.25" y="-78.75" rotation="0" depth="21" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="110">
+			<item x="169.25" y="-78.75" rotation="0" depth="21" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grain">
+		<frame index="0">
+			<item x="85.85" y="-78.75" rotation="0" depth="22" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="30">
+			<item x="85.85" y="-78.75" rotation="0" depth="22" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="31">
+			<item x="85.85" y="-78.75" rotation="0" depth="22" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="85.85" y="-78.75" rotation="0" depth="22" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="110">
+			<item x="85.85" y="-78.75" rotation="0" depth="22" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_spring">
+		<frame index="0">
+			<item x="85.85" y="87.25" rotation="0" depth="23" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="30">
+			<item x="85.85" y="87.25" rotation="0" depth="23" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="31">
+			<item x="85.85" y="87.25" rotation="0" depth="23" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="0.33" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="85.85" y="87.25" rotation="0" depth="23" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="0.33" ease="none" />
+		</frame>
+		<frame index="110">
+			<item x="85.85" y="87.25" rotation="0" depth="23" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_spring">
+		<frame index="0">
+			<item x="2.45" y="87.25" rotation="0" depth="24" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="30">
+			<item x="2.45" y="87.25" rotation="0" depth="24" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="31">
+			<item x="2.45" y="87.25" rotation="0" depth="24" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="0.33" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="2.45" y="87.25" rotation="0" depth="24" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="0.33" ease="none" />
+		</frame>
+		<frame index="110">
+			<item x="2.45" y="87.25" rotation="0" depth="24" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_spring">
+		<frame index="0">
+			<item x="-164.35" y="87.25" rotation="0" depth="25" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="30">
+			<item x="-164.35" y="87.25" rotation="0" depth="25" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="31">
+			<item x="-164.35" y="87.25" rotation="0" depth="25" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="0.33" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="-164.35" y="87.25" rotation="0" depth="25" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="0.33" ease="none" />
+		</frame>
+		<frame index="110">
+			<item x="-164.35" y="87.25" rotation="0" depth="25" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_spring">
+		<frame index="0">
+			<item x="-80.95" y="4.25" rotation="0" depth="26" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="30">
+			<item x="-80.95" y="4.25" rotation="0" depth="26" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="31">
+			<item x="-80.95" y="4.25" rotation="0" depth="26" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="0.33" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="-80.95" y="4.25" rotation="0" depth="26" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="0.33" ease="none" />
+		</frame>
+		<frame index="110">
+			<item x="-80.95" y="4.25" rotation="0" depth="26" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_spring">
+		<frame index="0">
+			<item x="2.45" y="-78.75" rotation="0" depth="27" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="30">
+			<item x="2.45" y="-78.75" rotation="0" depth="27" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="31">
+			<item x="2.45" y="-78.75" rotation="0" depth="27" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="0.33" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="2.45" y="-78.75" rotation="0" depth="27" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="0.33" ease="none" />
+		</frame>
+		<frame index="110">
+			<item x="2.45" y="-78.75" rotation="0" depth="27" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_spring">
+		<frame index="0">
+			<item x="-80.95" y="-78.75" rotation="0" depth="28" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="30">
+			<item x="-80.95" y="-78.75" rotation="0" depth="28" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="31">
+			<item x="-80.95" y="-78.75" rotation="0" depth="28" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="0.33" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="-80.95" y="-78.75" rotation="0" depth="28" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="0.33" ease="none" />
+		</frame>
+		<frame index="110">
+			<item x="-80.95" y="-78.75" rotation="0" depth="28" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_spring">
+		<frame index="0">
+			<item x="-164.35" y="-78.75" rotation="0" depth="29" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="30">
+			<item x="-164.35" y="-78.75" rotation="0" depth="29" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="31">
+			<item x="-164.35" y="-78.75" rotation="0" depth="29" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="0.33" ease="none" />
+		</frame>
+		<frame index="109">
+			<item x="-164.35" y="-78.75" rotation="0" depth="29" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="0.33" ease="none" />
+		</frame>
+		<frame index="110">
+			<item x="-164.35" y="-78.75" rotation="0" depth="29" scaleX="0.8298797607421875" scaleY="0.8298797607421875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+</animations>

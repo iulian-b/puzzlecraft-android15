@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="grass_spring_element_06.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="41.65" y="-23.8" rotation="2.2779998779296875" depth="249" scaleX="0.9997406005859375" scaleY="0.9997406005859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="28" tweenType="motion" flag="">
+			<item x="44.3" y="-22.25" rotation="13.366180419921875" depth="249" scaleX="0.9992218017578125" scaleY="0.9992218017578125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="63" tweenType="motion" flag="">
+			<item x="41.1" y="-24.05" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="41.65" y="-23.8" rotation="2.2779998779296875" depth="249" scaleX="0.9997406005859375" scaleY="0.9997406005859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_spring_element_07.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="32.35" y="-49.1" rotation="17.27593994140625" depth="248" scaleX="0.9969940185546875" scaleY="0.9969940185546875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="22" tweenType="motion" flag="">
+			<item x="36.7" y="-47.5" rotation="23.287994384765625" depth="248" scaleX="0.99688720703125" scaleY="0.99688720703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="57" tweenType="motion" flag="">
+			<item x="29.95" y="-49.95" rotation="14.004150390625" depth="248" scaleX="0.9985198974609375" scaleY="0.9985198974609375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="32.35" y="-49.1" rotation="17.27593994140625" depth="248" scaleX="0.9969940185546875" scaleY="0.9969940185546875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_spring_element_08.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-5.1" y="-47.85" rotation="23.81256103515625" depth="247" scaleX="0.9968109130859375" scaleY="0.9968109130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="26" tweenType="motion" flag="">
+			<item x="-3.2" y="-46.9" rotation="26.607696533203125" depth="247" scaleX="0.9969635009765625" scaleY="0.9969635009765625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="61" tweenType="motion" flag="">
+			<item x="-5.65" y="-48.15" rotation="23.0374755859375" depth="247" scaleX="0.9983367919921875" scaleY="0.9983367919921875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="-5.1" y="-47.85" rotation="23.81256103515625" depth="247" scaleX="0.9968109130859375" scaleY="0.9968109130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_spring_element_03.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="13.35" y="-54.05" rotation="21.291336059570312" depth="246" scaleX="0.9972381591796875" scaleY="0.9972381591796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="17" tweenType="motion" flag="">
+			<item x="15.3" y="-53.3" rotation="24.110427856445312" depth="246" scaleX="0.9976959228515625" scaleY="0.9976959228515625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="52" tweenType="motion" flag="">
+			<item x="11.45" y="-54.8" rotation="18.52276611328125" depth="246" scaleX="0.9990234375" scaleY="0.9990234375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="13.35" y="-54.05" rotation="21.291336059570312" depth="246" scaleX="0.9972381591796875" scaleY="0.9972381591796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_spring_element_05.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-12.2" y="-53.2" rotation="27.042831420898438" depth="245" scaleX="0.996337890625" scaleY="0.996337890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="13" tweenType="motion" flag="">
+			<item x="-11.5" y="-52.85" rotation="28.083694458007812" depth="245" scaleX="0.997100830078125" scaleY="0.997100830078125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="48" tweenType="motion" flag="">
+			<item x="-13.45" y="-53.75" rotation="25.278030395507812" depth="245" scaleX="0.99853515625" scaleY="0.99853515625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="-12.2" y="-53.2" rotation="27.042831420898438" depth="245" scaleX="0.996337890625" scaleY="0.996337890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_spring_element_04.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-30.15" y="-52.4" rotation="13.813858032226562" depth="244" scaleX="0.997772216796875" scaleY="0.997772216796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="-28.15" y="-51.7" rotation="18.0142822265625" depth="244" scaleX="0.9976654052734375" scaleY="0.9976654052734375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="64" tweenType="motion" flag="">
+			<item x="-30.5" y="-52.55" rotation="13.2626953125" depth="244" scaleX="0.9986724853515625" scaleY="0.9986724853515625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="-30.15" y="-52.4" rotation="13.813858032226562" depth="244" scaleX="0.997772216796875" scaleY="0.997772216796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_spring_element_02.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="25.15" y="-53.1" rotation="25.587493896484375" depth="243" scaleX="0.9969024658203125" scaleY="0.9969024658203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="21" tweenType="motion" flag="">
+			<item x="27.9" y="-51.55" rotation="30.41448974609375" depth="243" scaleX="0.9971923828125" scaleY="0.9971923828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="56" tweenType="motion" flag="">
+			<item x="23.4" y="-54.05" rotation="22.794937133789062" depth="243" scaleX="0.998809814453125" scaleY="0.998809814453125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="25.15" y="-53.1" rotation="25.587493896484375" depth="243" scaleX="0.9969024658203125" scaleY="0.9969024658203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_spring_element_01.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-2.05" y="-17.35" rotation="0" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="-2.05" y="-17.35" rotation="0" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="-2.05" y="-17.35" rotation="0" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+</animations>

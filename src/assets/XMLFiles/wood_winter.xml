@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="wood_winter_06.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="10.35" y="-71.85" rotation="-2.7622833251953125" depth="249" scaleX="0.999542236328125" scaleY="0.999542236328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="25" tweenType="motion" flag="">
+			<item x="11.55" y="-70.85" rotation="4.0324249267578125" depth="249" scaleX="0.999786376953125" scaleY="0.999786376953125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="60" tweenType="motion" flag="">
+			<item x="9.9" y="-72.25" rotation="-5.2535400390625" depth="249" scaleX="0.9997100830078125" scaleY="0.9997100830078125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="10.35" y="-71.85" rotation="-2.7622833251953125" depth="249" scaleX="0.999542236328125" scaleY="0.999542236328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="wood_winter_05.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-7.3" y="-66.6" rotation="-1.270965576171875" depth="248" scaleX="0.99957275390625" scaleY="0.99957275390625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="22" tweenType="motion" flag="">
+			<item x="-6.5" y="-68.2" rotation="7.28765869140625" depth="248" scaleX="0.99957275390625" scaleY="0.99957275390625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="57" tweenType="motion" flag="">
+			<item x="-7.8" y="-65.65" rotation="-6.0284423828125" depth="248" scaleX="0.999664306640625" scaleY="0.999664306640625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="-7.3" y="-66.6" rotation="-1.270965576171875" depth="248" scaleX="0.99957275390625" scaleY="0.99957275390625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="wood_winter_03.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="18" y="-66.25" rotation="-1.0586090087890625" depth="247" scaleX="0.9999542236328125" scaleY="0.9999542236328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="30" tweenType="motion" flag="">
+			<item x="18.1" y="-65.3" rotation="4.5479583740234375" depth="247" scaleX="0.9998321533203125" scaleY="0.9998321533203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="65" tweenType="motion" flag="">
+			<item x="18" y="-66.4" rotation="-2.0003814697265625" depth="247" scaleX="1.0000152587890625" scaleY="1.0000152587890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="18" y="-66.25" rotation="-1.0586090087890625" depth="247" scaleX="0.9999542236328125" scaleY="0.9999542236328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="wood_winter_04.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-16.2" y="-60.05" rotation="-0.02972412109375" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="18" tweenType="motion" flag="">
+			<item x="-15.95" y="-60.3" rotation="2.0003814697265625" depth="246" scaleX="1.0000152587890625" scaleY="1.0000152587890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="53" tweenType="motion" flag="">
+			<item x="-16.35" y="-59.8" rotation="-2.0003814697265625" depth="246" scaleX="1.0000152587890625" scaleY="1.0000152587890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="-16.2" y="-60.05" rotation="-0.02972412109375" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="wood_winter_02.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-30.65" y="-69.15" rotation="-6.536346435546875" depth="245" scaleX="0.9992523193359375" scaleY="0.9992523193359375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="26" tweenType="motion" flag="">
+			<item x="-29.95" y="-70.4" rotation="2.0003814697265625" depth="245" scaleX="1.0000152587890625" scaleY="1.0000152587890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="61" tweenType="motion" flag="">
+			<item x="-30.85" y="-68.8" rotation="-9.288986206054688" depth="245" scaleX="0.999481201171875" scaleY="0.999481201171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="-30.65" y="-69.15" rotation="-6.536346435546875" depth="245" scaleX="0.9992523193359375" scaleY="0.9992523193359375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="wood_summer_01.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="3" y="-44.05" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="3" y="-44.05" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="3" y="-44.05" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+</animations>

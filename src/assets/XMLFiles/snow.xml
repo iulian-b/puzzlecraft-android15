@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="grass_winter_element_03.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="37.8" y="-27.45" rotation="27.33819580078125" depth="249" scaleX="0.9978179931640625" scaleY="0.9977874755859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="25" tweenType="motion" flag="">
+			<item x="42.9" y="-27.9" rotation="36.881591796875" depth="249" scaleX="0.9981842041015625" scaleY="0.9981689453125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="60" tweenType="motion" flag="">
+			<item x="35.9" y="-27.3" rotation="24.044113159179688" depth="249" scaleX="0.99951171875" scaleY="0.9994964599609375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="37.8" y="-27.45" rotation="27.33819580078125" depth="249" scaleX="0.9978179931640625" scaleY="0.9977874755859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_winter_element_02.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-1.2" y="-36.85" rotation="28.823684692382812" depth="248" scaleX="0.99713134765625" scaleY="0.99713134765625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="18" tweenType="motion" flag="">
+			<item x="1.25" y="-36.8" rotation="32.31742858886719" depth="248" scaleX="0.9983367919921875" scaleY="0.9983367919921875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="53" tweenType="motion" flag="">
+			<item x="-3.35" y="-36.8" rotation="25.800460815429688" depth="248" scaleX="0.9987030029296875" scaleY="0.9987030029296875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="-1.2" y="-36.85" rotation="28.823684692382812" depth="248" scaleX="0.99713134765625" scaleY="0.99713134765625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_winter_element_01.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-18" y="-51.05" rotation="25.58038330078125" depth="247" scaleX="0.9971923828125" scaleY="0.9971923828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="27" tweenType="motion" flag="">
+			<item x="-11.85" y="-50.85" rotation="33.88775634765625" depth="247" scaleX="0.9982757568359375" scaleY="0.9982757568359375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="62" tweenType="motion" flag="">
+			<item x="-19.6" y="-51.1" rotation="23.554473876953125" depth="247" scaleX="0.9984893798828125" scaleY="0.9984893798828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="-18" y="-51.05" rotation="25.58038330078125" depth="247" scaleX="0.9971923828125" scaleY="0.9971923828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_winter_element_04.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-29.05" y="-54.9" rotation="21.314849853515625" depth="246" scaleX="0.9981689453125" scaleY="0.9981536865234375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="22" tweenType="motion" flag="">
+			<item x="-27.6" y="-54.9" rotation="25.044540405273438" depth="246" scaleX="0.999053955078125" scaleY="0.9990386962890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="57" tweenType="motion" flag="">
+			<item x="-29.8" y="-54.9" rotation="19.4281005859375" depth="246" scaleX="0.9994049072265625" scaleY="0.9993896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="-29.05" y="-54.9" rotation="21.314849853515625" depth="246" scaleX="0.9981689453125" scaleY="0.9981536865234375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_winter_element_06.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="26.35" y="-42.25" rotation="22.001296997070312" depth="245" scaleX="0.9983673095703125" scaleY="0.9983673095703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="35.15" y="-41.4" rotation="37.51887512207031" depth="245" scaleX="0.9975128173828125" scaleY="0.9975128173828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="26.35" y="-42.25" rotation="22.001296997070312" depth="245" scaleX="0.9983673095703125" scaleY="0.9983673095703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_winter_element_05.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="4.15" y="-50.6" rotation="22.449310302734375" depth="244" scaleX="0.999603271484375" scaleY="0.999603271484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="6.55" y="-50.6" rotation="27.011627197265625" depth="244" scaleX="0.99932861328125" scaleY="0.99932861328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="4.15" y="-50.6" rotation="22.449310302734375" depth="244" scaleX="0.999603271484375" scaleY="0.999603271484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_winter_element_07.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="23.4" y="-51.85" rotation="27.32232666015625" depth="243" scaleX="0.99700927734375" scaleY="0.99700927734375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="18" tweenType="motion" flag="">
+			<item x="24.85" y="-51.5" rotation="32.84320068359375" depth="243" scaleX="0.9980316162109375" scaleY="0.9980316162109375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="53" tweenType="motion" flag="">
+			<item x="22.25" y="-52.1" rotation="22.529159545898438" depth="243" scaleX="0.9986419677734375" scaleY="0.9986419677734375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="23.4" y="-51.85" rotation="27.32232666015625" depth="243" scaleX="0.99700927734375" scaleY="0.99700927734375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_winter_element_08.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="0.3" y="-19.1" rotation="0" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="0.3" y="-19.1" rotation="0" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="0.3" y="-19.1" rotation="0" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+</animations>

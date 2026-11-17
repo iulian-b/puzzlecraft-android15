@@ -1,0 +1,82 @@
+.class Lcom/fusepowered/sa/android/publish/list3d/c$2;
+.super Ljava/lang/Object;
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/fusepowered/sa/android/publish/list3d/c;->e()V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic a:Lcom/fusepowered/sa/android/publish/list3d/c;
+
+
+# direct methods
+.method constructor <init>(Lcom/fusepowered/sa/android/publish/list3d/c;)V
+    .locals 0
+
+    iput-object p1, p0, Lcom/fusepowered/sa/android/publish/list3d/c$2;->a:Lcom/fusepowered/sa/android/publish/list3d/c;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public run()V
+    .locals 8
+
+    const/4 v7, 0x0
+
+    const/4 v5, 0x0
+
+    const/high16 v6, -0x3e600000    # -20.0f
+
+    invoke-static {}, Ljava/lang/System;->currentTimeMillis()J
+
+    move-result-wide v0
+
+    invoke-static {}, Ljava/lang/System;->currentTimeMillis()J
+
+    move-result-wide v2
+
+    const/4 v4, 0x2
+
+    invoke-static/range {v0 .. v7}, Landroid/view/MotionEvent;->obtain(JJIFFI)Landroid/view/MotionEvent;
+
+    move-result-object v0
+
+    iget-object v1, p0, Lcom/fusepowered/sa/android/publish/list3d/c$2;->a:Lcom/fusepowered/sa/android/publish/list3d/c;
+
+    invoke-virtual {v1, v0}, Lcom/fusepowered/sa/android/publish/list3d/c;->dispatchTouchEvent(Landroid/view/MotionEvent;)Z
+
+    invoke-static {}, Ljava/lang/System;->currentTimeMillis()J
+
+    move-result-wide v0
+
+    invoke-static {}, Ljava/lang/System;->currentTimeMillis()J
+
+    move-result-wide v2
+
+    const/4 v4, 0x1
+
+    invoke-static/range {v0 .. v7}, Landroid/view/MotionEvent;->obtain(JJIFFI)Landroid/view/MotionEvent;
+
+    move-result-object v0
+
+    iget-object v1, p0, Lcom/fusepowered/sa/android/publish/list3d/c$2;->a:Lcom/fusepowered/sa/android/publish/list3d/c;
+
+    invoke-virtual {v1, v0}, Lcom/fusepowered/sa/android/publish/list3d/c;->dispatchTouchEvent(Landroid/view/MotionEvent;)Z
+
+    return-void
+.end method

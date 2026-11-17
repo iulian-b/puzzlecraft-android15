@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="map_b_building_site_006.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="37.45" y="-43.3" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_building_site_003.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="61" y="-86.3" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="14" tweenType="motion" flag="">
+			<item x="62.2" y="-85.2" rotation="4.2785491943359375" depth="248" scaleX="0.99951171875" scaleY="0.99951171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="25" tweenType="motion" flag="">
+			<item x="63.15" y="-84.35" rotation="7.783416748046875" depth="248" scaleX="0.9995574951171875" scaleY="0.9995574951171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="63.15" y="-84.35" rotation="7.7611083984375" depth="248" scaleX="0.999114990234375" scaleY="0.999114990234375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="51" tweenType="motion" flag="">
+			<item x="63.15" y="-84.35" rotation="7.783416748046875" depth="248" scaleX="0.9995574951171875" scaleY="0.9995574951171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="66" tweenType="motion" flag="">
+			<item x="63.15" y="-84.35" rotation="7.783416748046875" depth="248" scaleX="0.9995574951171875" scaleY="0.9995574951171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="80" tweenType="motion" flag="">
+			<item x="63.15" y="-84.35" rotation="7.783416748046875" depth="248" scaleX="0.9995574951171875" scaleY="0.9995574951171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="98" tweenType="motion" flag="">
+			<item x="63.15" y="-84.35" rotation="7.783416748046875" depth="248" scaleX="0.9995574951171875" scaleY="0.9995574951171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="182" tweenType="motion" flag="">
+			<item x="65.5" y="-82.5" rotation="12.315719604492188" depth="248" scaleX="0.999298095703125" scaleY="0.999298095703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="191" tweenType="motion" flag="">
+			<item x="65.5" y="-82.5" rotation="12.315719604492188" depth="248" scaleX="0.999298095703125" scaleY="0.999298095703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="221" tweenType="motion" flag="">
+			<item x="65.5" y="-82.5" rotation="12.315719604492188" depth="248" scaleX="0.999298095703125" scaleY="0.999298095703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="225" tweenType="motion" flag="">
+			<item x="64.9" y="-82.95" rotation="10.563064575195312" depth="248" scaleX="0.998779296875" scaleY="0.998779296875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="231" tweenType="motion" flag="">
+			<item x="64.15" y="-83.65" rotation="8.518447875976562" depth="248" scaleX="0.9990386962890625" scaleY="0.9990386962890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="237" tweenType="motion" flag="">
+			<item x="63.35" y="-84.2" rotation="6.53375244140625" depth="248" scaleX="0.9992523193359375" scaleY="0.9992523193359375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="243" tweenType="motion" flag="">
+			<item x="62.8" y="-84.8" rotation="4.7989501953125" depth="248" scaleX="0.9994659423828125" scaleY="0.9994659423828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="249" tweenType="motion" flag="">
+			<item x="62.3" y="-85.2" rotation="3.5023040771484375" depth="248" scaleX="0.9995880126953125" scaleY="0.9995880126953125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="255" tweenType="motion" flag="">
+			<item x="61.85" y="-85.6" rotation="2.26666259765625" depth="248" scaleX="0.999725341796875" scaleY="0.999725341796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="261" tweenType="motion" flag="">
+			<item x="61.45" y="-85.9" rotation="1.2797088623046875" depth="248" scaleX="0.9998321533203125" scaleY="0.9998321533203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="267" tweenType="motion" flag="">
+			<item x="61.25" y="-86.05" rotation="0.54290771484375" depth="248" scaleX="0.99993896484375" scaleY="0.99993896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="272" tweenType="motion" flag="">
+			<item x="61.1" y="-86.2" rotation="0.25616455078125" depth="248" scaleX="0.999969482421875" scaleY="0.999969482421875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="276" tweenType="motion" flag="">
+			<item x="61.1" y="-86.2" rotation="0.0209808349609375" depth="248" scaleX="0.9999847412109375" scaleY="0.9999847412109375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="279" tweenType="motion" flag="">
+			<item x="61" y="-86.3" rotation="0.0034942626953125" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="281" tweenType="motion" flag="">
+			<item x="61" y="-86.3" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="292" tweenType="motion" flag="">
+			<item x="61" y="-86.3" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="393" tweenType="motion" flag="">
+			<item x="61" y="-86.3" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_building_site_005.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="2.4" y="-72.3" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="14" tweenType="motion" flag="">
+			<item x="-0.3" y="-55.15" rotation="-1.800384521484375" depth="247" scaleX="0.9998931884765625" scaleY="0.9998931884765625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="25" tweenType="motion" flag="">
+			<item x="-5.15" y="-41.5" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="-8.5" y="-41.6" rotation="3.2653350830078125" depth="247" scaleX="0.9998321533203125" scaleY="0.9998321533203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="51" tweenType="motion" flag="">
+			<item x="-3.85" y="-41.55" rotation="-1.2744598388671875" depth="247" scaleX="0.9999542236328125" scaleY="0.9999542236328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="66" tweenType="motion" flag="">
+			<item x="-6.5" y="-41.45" rotation="1.3102874755859375" depth="247" scaleX="0.9999542236328125" scaleY="0.9999542236328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="80" tweenType="motion" flag="">
+			<item x="-5.15" y="-41.5" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="98" tweenType="motion" flag="">
+			<item x="-5.15" y="-41.5" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="182" tweenType="motion" flag="">
+			<item x="13.65" y="-93.7" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="191" tweenType="motion" flag="">
+			<item x="14.4" y="-93.75" rotation="-1.7724456787109375" depth="247" scaleX="0.9998931884765625" scaleY="0.9998931884765625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="221" tweenType="motion" flag="">
+			<item x="13.65" y="-93.7" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="225" tweenType="motion" flag="">
+			<item x="12.2" y="-84.65" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="231" tweenType="motion" flag="">
+			<item x="10.2" y="-72.2" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="237" tweenType="motion" flag="">
+			<item x="8.45" y="-61.2" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="243" tweenType="motion" flag="">
+			<item x="6.9" y="-51.6" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="249" tweenType="motion" flag="">
+			<item x="5.6" y="-43.4" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="255" tweenType="motion" flag="">
+			<item x="4.5" y="-36.6" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="261" tweenType="motion" flag="">
+			<item x="3.65" y="-31.2" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="267" tweenType="motion" flag="">
+			<item x="3" y="-27.25" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="272" tweenType="motion" flag="">
+			<item x="2.65" y="-25" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="276" tweenType="motion" flag="">
+			<item x="2.5" y="-23.9" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="279" tweenType="motion" flag="">
+			<item x="2.4" y="-23.5" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="281" tweenType="motion" flag="">
+			<item x="2.4" y="-23.4" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="292" tweenType="motion" flag="">
+			<item x="2.4" y="-23.4" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="393" tweenType="motion" flag="">
+			<item x="2.4" y="-72.3" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_building_site_004.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="25.45" y="-86.85" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="14" tweenType="motion" flag="">
+			<item x="23.2" y="-84.4" rotation="-6.3006591796875" depth="246" scaleX="0.9992523193359375" scaleY="0.9992523193359375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="25" tweenType="motion" flag="">
+			<item x="21.45" y="-82.5" rotation="-11.509689331054688" depth="246" scaleX="0.999359130859375" scaleY="0.999359130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="21.45" y="-82.5" rotation="-11.50885009765625" depth="246" scaleX="0.998687744140625" scaleY="0.998687744140625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="51" tweenType="motion" flag="">
+			<item x="21.45" y="-82.5" rotation="-11.509689331054688" depth="246" scaleX="0.999359130859375" scaleY="0.999359130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="66" tweenType="motion" flag="">
+			<item x="21.45" y="-82.5" rotation="-11.509689331054688" depth="246" scaleX="0.999359130859375" scaleY="0.999359130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="80" tweenType="motion" flag="">
+			<item x="21.45" y="-82.5" rotation="-11.509689331054688" depth="246" scaleX="0.999359130859375" scaleY="0.999359130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="98" tweenType="motion" flag="">
+			<item x="21.45" y="-82.5" rotation="-11.509689331054688" depth="246" scaleX="0.999359130859375" scaleY="0.999359130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="182" tweenType="motion" flag="">
+			<item x="30.9" y="-90.65" rotation="12.315719604492188" depth="246" scaleX="0.999298095703125" scaleY="0.999298095703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="191" tweenType="motion" flag="">
+			<item x="30.9" y="-90.65" rotation="12.315719604492188" depth="246" scaleX="0.999298095703125" scaleY="0.999298095703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="221" tweenType="motion" flag="">
+			<item x="30.9" y="-90.65" rotation="12.315719604492188" depth="246" scaleX="0.999298095703125" scaleY="0.999298095703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="225" tweenType="motion" flag="">
+			<item x="30.15" y="-90.1" rotation="10.563064575195312" depth="246" scaleX="0.998779296875" scaleY="0.998779296875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="231" tweenType="motion" flag="">
+			<item x="29.2" y="-89.45" rotation="8.518447875976562" depth="246" scaleX="0.9990386962890625" scaleY="0.9990386962890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="237" tweenType="motion" flag="">
+			<item x="28.4" y="-88.85" rotation="6.53375244140625" depth="246" scaleX="0.9992523193359375" scaleY="0.9992523193359375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="243" tweenType="motion" flag="">
+			<item x="27.65" y="-88.3" rotation="4.7989501953125" depth="246" scaleX="0.9994659423828125" scaleY="0.9994659423828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="249" tweenType="motion" flag="">
+			<item x="27" y="-87.95" rotation="3.5023040771484375" depth="246" scaleX="0.9995880126953125" scaleY="0.9995880126953125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="255" tweenType="motion" flag="">
+			<item x="26.4" y="-87.55" rotation="2.26666259765625" depth="246" scaleX="0.999725341796875" scaleY="0.999725341796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="261" tweenType="motion" flag="">
+			<item x="26.05" y="-87.2" rotation="1.2797088623046875" depth="246" scaleX="0.9998321533203125" scaleY="0.9998321533203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="267" tweenType="motion" flag="">
+			<item x="25.7" y="-87" rotation="0.54290771484375" depth="246" scaleX="0.99993896484375" scaleY="0.99993896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="272" tweenType="motion" flag="">
+			<item x="25.55" y="-86.9" rotation="0.25616455078125" depth="246" scaleX="0.999969482421875" scaleY="0.999969482421875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="276" tweenType="motion" flag="">
+			<item x="25.5" y="-86.9" rotation="0.0209808349609375" depth="246" scaleX="0.9999847412109375" scaleY="0.9999847412109375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="279" tweenType="motion" flag="">
+			<item x="25.45" y="-86.85" rotation="0.0034942626953125" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="281" tweenType="motion" flag="">
+			<item x="25.45" y="-86.85" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="292" tweenType="motion" flag="">
+			<item x="25.45" y="-86.85" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="393" tweenType="motion" flag="">
+			<item x="25.45" y="-86.85" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_building_site_007.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="34.25" y="-104.55" rotation="103.82376098632812" depth="245" scaleX="-0.9992218017578125" scaleY="-0.9992218017578125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="14" tweenType="motion" flag="">
+			<item x="32.85" y="-101.45" rotation="99.03677368164062" depth="245" scaleX="-0.9979705810546875" scaleY="-1.1059112548828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="25" tweenType="motion" flag="">
+			<item x="31.75" y="-99" rotation="95.44508361816406" depth="245" scaleX="-0.9979400634765625" scaleY="-1.190765380859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="31.8" y="-99.05" rotation="95.30035400390625" depth="245" scaleX="-0.9976043701171875" scaleY="-1.1903839111328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="51" tweenType="motion" flag="">
+			<item x="31.75" y="-99" rotation="95.44508361816406" depth="245" scaleX="-0.9979400634765625" scaleY="-1.190765380859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="66" tweenType="motion" flag="">
+			<item x="31.75" y="-99" rotation="95.44508361816406" depth="245" scaleX="-0.9979400634765625" scaleY="-1.190765380859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="80" tweenType="motion" flag="">
+			<item x="31.75" y="-99" rotation="95.44508361816406" depth="245" scaleX="-0.9979400634765625" scaleY="-1.190765380859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="98" tweenType="motion" flag="">
+			<item x="31.75" y="-99" rotation="95.44508361816406" depth="245" scaleX="-0.9979400634765625" scaleY="-1.190765380859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="182" tweenType="motion" flag="">
+			<item x="43.25" y="-106" rotation="116.13893127441406" depth="245" scaleX="-0.9985198974609375" scaleY="-0.9985198974609375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="191" tweenType="motion" flag="">
+			<item x="43.25" y="-106" rotation="116.13893127441406" depth="245" scaleX="-0.9985198974609375" scaleY="-0.9985198974609375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="221" tweenType="motion" flag="">
+			<item x="43.25" y="-106" rotation="116.13893127441406" depth="245" scaleX="-0.9985198974609375" scaleY="-0.9985198974609375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="225" tweenType="motion" flag="">
+			<item x="42.05" y="-105.75" rotation="114.54595947265625" depth="245" scaleX="-0.9973907470703125" scaleY="-0.9973907470703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="231" tweenType="motion" flag="">
+			<item x="40.45" y="-105.6" rotation="112.30877685546875" depth="245" scaleX="-0.997589111328125" scaleY="-0.997589111328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="237" tweenType="motion" flag="">
+			<item x="39.05" y="-105.35" rotation="110.32344055175781" depth="245" scaleX="-0.9977874755859375" scaleY="-0.9977874755859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="243" tweenType="motion" flag="">
+			<item x="37.75" y="-105.1" rotation="108.77314758300781" depth="245" scaleX="-0.997955322265625" scaleY="-0.997955322265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="249" tweenType="motion" flag="">
+			<item x="36.75" y="-104.95" rotation="107.28550720214844" depth="245" scaleX="-0.998077392578125" scaleY="-0.998077392578125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="255" tweenType="motion" flag="">
+			<item x="35.9" y="-104.75" rotation="106.04833984375" depth="245" scaleX="-0.9982147216796875" scaleY="-0.9982147216796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="261" tweenType="motion" flag="">
+			<item x="35.2" y="-104.65" rotation="105.06089782714844" depth="245" scaleX="-0.998321533203125" scaleY="-0.998321533203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="267" tweenType="motion" flag="">
+			<item x="34.75" y="-104.65" rotation="104.32386779785156" depth="245" scaleX="-0.998382568359375" scaleY="-0.998382568359375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="272" tweenType="motion" flag="">
+			<item x="34.4" y="-104.55" rotation="104.03623962402344" depth="245" scaleX="-0.9984130859375" scaleY="-0.9984130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="276" tweenType="motion" flag="">
+			<item x="34.25" y="-104.55" rotation="103.80067443847656" depth="245" scaleX="-0.9984588623046875" scaleY="-0.9984588623046875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="279" tweenType="motion" flag="">
+			<item x="34.25" y="-104.55" rotation="103.78253173828125" depth="245" scaleX="-0.99847412109375" scaleY="-0.99847412109375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="281" tweenType="motion" flag="">
+			<item x="34.25" y="-104.55" rotation="103.82376098632812" depth="245" scaleX="-0.9992218017578125" scaleY="-0.9992218017578125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="292" tweenType="motion" flag="">
+			<item x="34.25" y="-104.55" rotation="103.82376098632812" depth="245" scaleX="-0.9992218017578125" scaleY="-0.9992218017578125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="393" tweenType="motion" flag="">
+			<item x="34.25" y="-104.55" rotation="103.82376098632812" depth="245" scaleX="-0.9992218017578125" scaleY="-0.9992218017578125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_building_site_002.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="60.9" y="-84.8" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="14" tweenType="motion" flag="">
+			<item x="62" y="-83.75" rotation="4.2785491943359375" depth="244" scaleX="0.99951171875" scaleY="0.99951171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="25" tweenType="motion" flag="">
+			<item x="62.85" y="-82.9" rotation="7.783416748046875" depth="244" scaleX="0.9995574951171875" scaleY="0.9995574951171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="62.85" y="-82.9" rotation="7.7611083984375" depth="244" scaleX="0.999114990234375" scaleY="0.999114990234375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="51" tweenType="motion" flag="">
+			<item x="62.85" y="-82.9" rotation="7.783416748046875" depth="244" scaleX="0.9995574951171875" scaleY="0.9995574951171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="66" tweenType="motion" flag="">
+			<item x="62.85" y="-82.9" rotation="7.783416748046875" depth="244" scaleX="0.9995574951171875" scaleY="0.9995574951171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="80" tweenType="motion" flag="">
+			<item x="62.85" y="-82.9" rotation="7.783416748046875" depth="244" scaleX="0.9995574951171875" scaleY="0.9995574951171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="98" tweenType="motion" flag="">
+			<item x="62.85" y="-82.9" rotation="7.783416748046875" depth="244" scaleX="0.9995574951171875" scaleY="0.9995574951171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="182" tweenType="motion" flag="">
+			<item x="65.05" y="-81.05" rotation="12.315719604492188" depth="244" scaleX="0.999298095703125" scaleY="0.999298095703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="191" tweenType="motion" flag="">
+			<item x="65.05" y="-81.05" rotation="12.315719604492188" depth="244" scaleX="0.999298095703125" scaleY="0.999298095703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="221" tweenType="motion" flag="">
+			<item x="65.05" y="-81.05" rotation="12.315719604492188" depth="244" scaleX="0.999298095703125" scaleY="0.999298095703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="225" tweenType="motion" flag="">
+			<item x="64.5" y="-81.55" rotation="10.563064575195312" depth="244" scaleX="0.998779296875" scaleY="0.998779296875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="231" tweenType="motion" flag="">
+			<item x="63.75" y="-82.2" rotation="8.518447875976562" depth="244" scaleX="0.9990386962890625" scaleY="0.9990386962890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="237" tweenType="motion" flag="">
+			<item x="63.05" y="-82.75" rotation="6.53375244140625" depth="244" scaleX="0.9992523193359375" scaleY="0.9992523193359375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="243" tweenType="motion" flag="">
+			<item x="62.45" y="-83.3" rotation="4.7989501953125" depth="244" scaleX="0.9994659423828125" scaleY="0.9994659423828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="249" tweenType="motion" flag="">
+			<item x="62.05" y="-83.7" rotation="3.5023040771484375" depth="244" scaleX="0.9995880126953125" scaleY="0.9995880126953125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="255" tweenType="motion" flag="">
+			<item x="61.7" y="-84.1" rotation="2.26666259765625" depth="244" scaleX="0.999725341796875" scaleY="0.999725341796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="261" tweenType="motion" flag="">
+			<item x="61.3" y="-84.35" rotation="1.2797088623046875" depth="244" scaleX="0.9998321533203125" scaleY="0.9998321533203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="267" tweenType="motion" flag="">
+			<item x="61.1" y="-84.6" rotation="0.54290771484375" depth="244" scaleX="0.99993896484375" scaleY="0.99993896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="272" tweenType="motion" flag="">
+			<item x="61" y="-84.65" rotation="0.25616455078125" depth="244" scaleX="0.999969482421875" scaleY="0.999969482421875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="276" tweenType="motion" flag="">
+			<item x="60.95" y="-84.7" rotation="0.0209808349609375" depth="244" scaleX="0.9999847412109375" scaleY="0.9999847412109375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="279" tweenType="motion" flag="">
+			<item x="60.9" y="-84.8" rotation="0.0034942626953125" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="281" tweenType="motion" flag="">
+			<item x="60.9" y="-84.8" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="292" tweenType="motion" flag="">
+			<item x="60.9" y="-84.8" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="393" tweenType="motion" flag="">
+			<item x="60.9" y="-84.8" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_building_site_007.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="1.2" y="-94.5" rotation="0" depth="243" scaleX="1" scaleY="0.5237274169921875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="14" tweenType="motion" flag="">
+			<item x="-2.4" y="-83.8" rotation="-1.800384521484375" depth="243" scaleX="0.9998931884765625" scaleY="0.730194091796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="25" tweenType="motion" flag="">
+			<item x="-6.35" y="-75.3" rotation="0" depth="243" scaleX="1" scaleY="0.8925628662109375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="-7.75" y="-75.35" rotation="3.2653350830078125" depth="243" scaleX="0.9998321533203125" scaleY="0.8924102783203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="51" tweenType="motion" flag="">
+			<item x="-5.8" y="-75.3" rotation="-1.2744598388671875" depth="243" scaleX="0.9999542236328125" scaleY="0.89251708984375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="66" tweenType="motion" flag="">
+			<item x="-6.9" y="-75.3" rotation="1.3102874755859375" depth="243" scaleX="0.9999542236328125" scaleY="0.89251708984375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="80" tweenType="motion" flag="">
+			<item x="-6.35" y="-75.3" rotation="0" depth="243" scaleX="1" scaleY="0.8925628662109375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="98" tweenType="motion" flag="">
+			<item x="-6.35" y="-75.3" rotation="0" depth="243" scaleX="1" scaleY="0.8925628662109375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="182" tweenType="motion" flag="">
+			<item x="12.4" y="-109.2" rotation="0" depth="243" scaleX="1" scaleY="0.3183441162109375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="191" tweenType="motion" flag="">
+			<item x="12.65" y="-109.2" rotation="-1.7724456787109375" depth="243" scaleX="0.9998931884765625" scaleY="0.3183135986328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="221" tweenType="motion" flag="">
+			<item x="12.4" y="-109.2" rotation="0" depth="243" scaleX="1" scaleY="0.3183441162109375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="225" tweenType="motion" flag="">
+			<item x="10.95" y="-104.25" rotation="0" depth="243" scaleX="1" scaleY="0.448699951171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="231" tweenType="motion" flag="">
+			<item x="9" y="-97.45" rotation="0" depth="243" scaleX="1" scaleY="0.62738037109375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="237" tweenType="motion" flag="">
+			<item x="7.2" y="-91.4" rotation="0" depth="243" scaleX="1" scaleY="0.78582763671875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="243" tweenType="motion" flag="">
+			<item x="5.7" y="-86.15" rotation="0" depth="243" scaleX="1" scaleY="0.9240570068359375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="249" tweenType="motion" flag="">
+			<item x="4.4" y="-81.65" rotation="0" depth="243" scaleX="1" scaleY="1.04205322265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="255" tweenType="motion" flag="">
+			<item x="3.3" y="-78" rotation="0" depth="243" scaleX="1" scaleY="1.13983154296875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="261" tweenType="motion" flag="">
+			<item x="2.45" y="-75" rotation="0" depth="243" scaleX="1" scaleY="1.2173614501953125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="267" tweenType="motion" flag="">
+			<item x="1.8" y="-72.8" rotation="0" depth="243" scaleX="1" scaleY="1.2746734619140625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="272" tweenType="motion" flag="">
+			<item x="1.45" y="-71.6" rotation="0" depth="243" scaleX="1" scaleY="1.3069915771484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="276" tweenType="motion" flag="">
+			<item x="1.3" y="-71" rotation="0" depth="243" scaleX="1" scaleY="1.322723388671875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="279" tweenType="motion" flag="">
+			<item x="1.2" y="-70.75" rotation="0" depth="243" scaleX="1" scaleY="1.32861328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="281" tweenType="motion" flag="">
+			<item x="1.2" y="-70.7" rotation="0" depth="243" scaleX="1" scaleY="1.329742431640625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="292" tweenType="motion" flag="">
+			<item x="1.2" y="-70.7" rotation="0" depth="243" scaleX="1" scaleY="1.329742431640625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="393" tweenType="motion" flag="">
+			<item x="1.2" y="-94.5" rotation="0" depth="243" scaleX="1" scaleY="0.5237274169921875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_building_site_001.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="0" y="-41.8" rotation="0" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+</animations>

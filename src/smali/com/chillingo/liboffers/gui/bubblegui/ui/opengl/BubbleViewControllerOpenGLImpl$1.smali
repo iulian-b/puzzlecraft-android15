@@ -1,0 +1,61 @@
+.class Lcom/chillingo/liboffers/gui/bubblegui/ui/opengl/BubbleViewControllerOpenGLImpl$1;
+.super Ljava/lang/Object;
+.source "BubbleViewControllerOpenGLImpl.java"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/chillingo/liboffers/gui/bubblegui/ui/opengl/BubbleViewControllerOpenGLImpl;->checkScenegraphState()V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic this$0:Lcom/chillingo/liboffers/gui/bubblegui/ui/opengl/BubbleViewControllerOpenGLImpl;
+
+
+# direct methods
+.method constructor <init>(Lcom/chillingo/liboffers/gui/bubblegui/ui/opengl/BubbleViewControllerOpenGLImpl;)V
+    .locals 0
+
+    .prologue
+    .line 159
+    iput-object p1, p0, Lcom/chillingo/liboffers/gui/bubblegui/ui/opengl/BubbleViewControllerOpenGLImpl$1;->this$0:Lcom/chillingo/liboffers/gui/bubblegui/ui/opengl/BubbleViewControllerOpenGLImpl;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public run()V
+    .locals 2
+
+    .prologue
+    .line 162
+    const-string v0, "OffersBubbleViewController"
+
+    const-string v1, "Resetting scene"
+
+    invoke-static {v0, v1}, Lcom/chillingo/liboffers/utils/OffersLog;->d(Ljava/lang/String;Ljava/lang/String;)I
+
+    .line 163
+    invoke-static {}, Lcom/chillingo/liboffers/gui/ui/scenegraph/Scenegraph;->releaseInstance()V
+
+    .line 164
+    invoke-static {}, Lcom/chillingo/liboffers/gui/renderer/opengl/TextureManager;->releaseInstance()V
+
+    .line 165
+    invoke-static {}, Lcom/chillingo/liboffers/gui/renderer/opengl/ShaderProgramManager;->releaseInstance()V
+
+    .line 166
+    return-void
+.end method

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="textField" />
+    <item type="id" name="game_gl_surfaceview" />
+    <item type="id" name="chillingo_dialog" />
+    <item type="id" name="chillingo_dialogMessage" />
+    <item type="id" name="chillingo_dialogAcceptButton" />
+    <item type="id" name="chillingo_scrollView" />
+    <item type="id" name="chillingo_mainLayout" />
+    <item type="id" name="chillingo_ageLabelTextView" />
+    <item type="id" name="chillingo_ageSeekBarText" />
+    <item type="id" name="chillingo_ageSeekBar" />
+    <item type="id" name="chillingo_declineButton" />
+    <item type="id" name="chillingo_acceptButton" />
+    <item type="id" name="chillingo_iAcceptLabel" />
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chillingo_acceptButton">Accepter</string>
+    <string name="chillingo_acceptButtonNoTerms">OK</string>
+    <string name="chillingo_ageLabel">Veuillez confirmer votre âge pour lancer le jeu</string>
+    <string name="chillingo_ageOver30">30 ans ou plus</string>
+    <string name="chillingo_criteriaNotMetDescription">"L'âge entré ne vous permet pas de jouer à ce jeu.
+
+Veuillez appuyer sur le bouton home pour quitter l'application."</string>
+    <string name="chillingo_criteriaNotMetTitle">Erreur</string>
+    <string name="chillingo_declineButton">Refuser</string>
+    <string name="chillingo_declineButtonNoTerms">Annuler</string>
+    <string name="chillingo_declineErrorButton">OK</string>
+    <string name="chillingo_declineErrorDescription">"Vous devez accepter la charte de confidentialité, la politique d'usage des cookies, les conditions d'utilisation et le CLUF d'EA pour jouer à ce jeu."</string>
+    <string name="chillingo_declineErrorDescriptionNoTerms">Vous devez entrer votre âge pour jouer à ce jeu.</string>
+    <string name="chillingo_declineErrorTitle">Erreur</string>
+    <string name="chillingo_defaultEulaUrl">http://tos.ea.com/legalapp/mobileeula/US/fr/GM/</string>
+    <string name="chillingo_defaultPrivacyPolicyUrl">http://tos.ea.com/legalapp/WEBPRIVACY/US/fr/PC/</string>
+    <string name="chillingo_defaultTermsOfServiceUrl">http://tos.ea.com/legalapp/WEBTERMS/US/fr/PC/</string>
+    <string name="chillingo_eulaButton">Contrat de Licence Utilisateur Final</string>
+    <string name="chillingo_iAcceptLabel">"J'ai lu et j'accepte la Politique relative à la protection des données personnelles et aux cookies, les Conditions d'utilisation et le Contrat de licence d'EA."</string>
+    <string name="chillingo_inlineLink_eula">Contrat de licence</string>
+    <string name="chillingo_inlineLink_privacyPolicy">Politique relative à la protection des données personnelles et aux cookies</string>
+    <string name="chillingo_inlineLink_tos">"Conditions d'utilisation"</string>
+    <string name="chillingo_introText">Nous nous engageons à vous fournir une bonne expérience de jeu de manière responsable.</string>
+    <string name="chillingo_introTitle">Notre promesse :</string>
+    <string name="chillingo_language">fr</string>
+    <string name="chillingo_privacyPolicyButton">Politique relative à la protection des données personnelles et aux cookies</string>
+    <string name="chillingo_termsButton">"Conditions d'utilisation"</string>
+    <string name="common_android_wear_notification_needs_update_text">"Une application nécessite une mise à jour du Bios de l'application Android Wear."</string>
+    <string name="common_android_wear_update_text">"Cette application ne fonctionnera pas tant que vous n'aurez pas mis à jour l'application Android Wear."</string>
+    <string name="common_android_wear_update_title">Mettre à jour Android Wear</string>
+    <string name="common_google_play_services_enable_button">Activer services Google Play</string>
+    <string name="common_google_play_services_enable_text">"Cette application ne fonctionnera pas tant que vous n'aurez pas activé les services Google Play."</string>
+    <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">"Notification issue de l'application \"%1$s\""</string>
+    <string name="common_google_play_services_install_button">Installer services Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Cette application ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre téléphone.</string>
+    <string name="common_google_play_services_install_text_tablet">Cette application ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre tablette.</string>
+    <string name="common_google_play_services_install_title">Installer les services Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">"Le compte indiqué n'existe pas sur cet appareil. Veuillez sélectionner un autre compte."</string>
+    <string name="common_google_play_services_invalid_account_title">Compte erroné</string>
+    <string name="common_google_play_services_needs_enabling_title">"Une application demande l'activation des services Google Play."</string>
+    <string name="common_google_play_services_network_error_text">"Vous devez disposer d'une connexion de données pour utiliser les services Google Play."</string>
+    <string name="common_google_play_services_network_error_title">Erreur réseau</string>
+    <string name="common_google_play_services_notification_needs_installation_title">"Une application demande l'installation des services Google Play."</string>
+    <string name="common_google_play_services_notification_needs_update_title">Une application demande la mise à jour des services Google Play.</string>
+    <string name="common_google_play_services_notification_ticker">Erreur liée aux services Google Play</string>
+    <string name="common_google_play_services_sign_in_failed_text">Erreur lors de la connexion au compte indiqué. Veuillez en sélectionner un autre.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Échec de la connexion</string>
+    <string name="common_google_play_services_unknown_issue">Problème inconnu avec les services Google Play.</string>
+    <string name="common_google_play_services_unsupported_text">"Les services Google Play, dont dépendent certaines de vos applications, ne sont pas compatibles avec votre appareil. Veuillez contacter le fabricant pour obtenir de l'aide."</string>
+    <string name="common_google_play_services_unsupported_title">Services Google Play</string>
+    <string name="common_google_play_services_update_button">Mettre à jour</string>
+    <string name="common_google_play_services_update_text">"Cette application ne fonctionnera pas tant que vous n'aurez pas mis à jour les services Google Play."</string>
+    <string name="common_google_play_services_update_title">Mettre à jour les services Google Play</string>
+    <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
+    <string name="common_signin_button_text">Connexion</string>
+    <string name="common_signin_button_text_long">Se connecter avec Google</string>
+    <string name="commono_google_play_services_api_unavailable_text">"Cette application nécessite un ou plusieurs services Google Play qui ne sont pas disponibles actuellement. Veuillez contacter le développeur pour obtenir de l'aide."</string>
+</resources>

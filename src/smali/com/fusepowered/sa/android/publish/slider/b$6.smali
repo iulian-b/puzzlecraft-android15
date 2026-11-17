@@ -1,0 +1,90 @@
+.class Lcom/fusepowered/sa/android/publish/slider/b$6;
+.super Ljava/lang/Object;
+
+# interfaces
+.implements Landroid/view/animation/Animation$AnimationListener;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/fusepowered/sa/android/publish/slider/b;->d()V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic a:Landroid/widget/ImageButton;
+
+.field final synthetic b:Landroid/view/animation/TranslateAnimation;
+
+.field final synthetic c:Lcom/fusepowered/sa/android/publish/slider/b;
+
+
+# direct methods
+.method constructor <init>(Lcom/fusepowered/sa/android/publish/slider/b;Landroid/widget/ImageButton;Landroid/view/animation/TranslateAnimation;)V
+    .locals 0
+
+    iput-object p1, p0, Lcom/fusepowered/sa/android/publish/slider/b$6;->c:Lcom/fusepowered/sa/android/publish/slider/b;
+
+    iput-object p2, p0, Lcom/fusepowered/sa/android/publish/slider/b$6;->a:Landroid/widget/ImageButton;
+
+    iput-object p3, p0, Lcom/fusepowered/sa/android/publish/slider/b$6;->b:Landroid/view/animation/TranslateAnimation;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public onAnimationEnd(Landroid/view/animation/Animation;)V
+    .locals 2
+
+    iget-object v0, p0, Lcom/fusepowered/sa/android/publish/slider/b$6;->c:Lcom/fusepowered/sa/android/publish/slider/b;
+
+    invoke-static {v0}, Lcom/fusepowered/sa/android/publish/slider/b;->e(Lcom/fusepowered/sa/android/publish/slider/b;)I
+
+    iget-object v0, p0, Lcom/fusepowered/sa/android/publish/slider/b$6;->c:Lcom/fusepowered/sa/android/publish/slider/b;
+
+    invoke-static {v0}, Lcom/fusepowered/sa/android/publish/slider/b;->f(Lcom/fusepowered/sa/android/publish/slider/b;)I
+
+    move-result v0
+
+    const/16 v1, 0xc
+
+    if-le v0, v1, :cond_0
+
+    iget-object v0, p0, Lcom/fusepowered/sa/android/publish/slider/b$6;->c:Lcom/fusepowered/sa/android/publish/slider/b;
+
+    const/4 v1, 0x0
+
+    invoke-static {v0, v1}, Lcom/fusepowered/sa/android/publish/slider/b;->a(Lcom/fusepowered/sa/android/publish/slider/b;I)I
+
+    :goto_0
+    return-void
+
+    :cond_0
+    iget-object v0, p0, Lcom/fusepowered/sa/android/publish/slider/b$6;->a:Landroid/widget/ImageButton;
+
+    iget-object v1, p0, Lcom/fusepowered/sa/android/publish/slider/b$6;->b:Landroid/view/animation/TranslateAnimation;
+
+    invoke-virtual {v0, v1}, Landroid/widget/ImageButton;->startAnimation(Landroid/view/animation/Animation;)V
+
+    goto :goto_0
+.end method
+
+.method public onAnimationRepeat(Landroid/view/animation/Animation;)V
+    .locals 0
+
+    return-void
+.end method
+
+.method public onAnimationStart(Landroid/view/animation/Animation;)V
+    .locals 0
+
+    return-void
+.end method

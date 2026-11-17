@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="map_workshop_01.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="0" y="-36.5" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="64" tweenType="motion" flag="">
+			<item x="0" y="-36.5" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_workshop_06.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-10.1" y="-15.55" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="64" tweenType="motion" flag="">
+			<item x="-10.1" y="-15.55" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_workshop_04.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-1.55" y="-27.9" rotation="14.999740600585938" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="10" tweenType="motion" flag="">
+			<item x="-6.05" y="-27.9" rotation="14.999740600585938" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="19" tweenType="motion" flag="">
+			<item x="-13" y="-25.1" rotation="-10.71844482421875" depth="247" scaleX="0.999755859375" scaleY="0.999755859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="43" tweenType="motion" flag="">
+			<item x="-6.5" y="-27.1" rotation="-16.98211669921875" depth="247" scaleX="0.9994049072265625" scaleY="0.9994049072265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="49" tweenType="motion" flag="">
+			<item x="-3.05" y="-27.9" rotation="14.999740600585938" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="64" tweenType="motion" flag="">
+			<item x="-1.55" y="-27.9" rotation="14.999740600585938" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_workshop_03.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-12.6" y="-23.95" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="22" tweenType="motion" flag="">
+			<item x="-12.6" y="-23.95" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="23" tweenType="motion" flag="">
+			<item x="-10.6" y="-25.45" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="-37.55" y="-18.75" rotation="0" depth="246" scaleX="0.149993896484375" scaleY="0.149993896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="30" tweenType="motion" flag="">
+			<item x="-10.6" y="-25.45" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="36" tweenType="motion" flag="">
+			<item x="-37.55" y="-18.75" rotation="0" depth="246" scaleX="0.149993896484375" scaleY="0.149993896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="37" tweenType="motion" flag="">
+			<item x="-10.6" y="-25.45" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="43" tweenType="motion" flag="">
+			<item x="-37.55" y="-18.75" rotation="0" depth="246" scaleX="0.149993896484375" scaleY="0.149993896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="44" tweenType="motion" flag="">
+			<item x="-12.6" y="-23.95" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="64" tweenType="motion" flag="">
+			<item x="-12.6" y="-23.95" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_workshop_03.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-12.5" y="-24.65" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="20" tweenType="motion" flag="">
+			<item x="-12.5" y="-24.65" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="21" tweenType="motion" flag="">
+			<item x="-12.5" y="-24.65" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="28" tweenType="motion" flag="">
+			<item x="-30.8" y="-20.4" rotation="0" depth="245" scaleX="0.375" scaleY="0.375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="-12.5" y="-24.65" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="33" tweenType="motion" flag="">
+			<item x="-30.8" y="-20.4" rotation="0" depth="245" scaleX="0.375" scaleY="0.375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="-12.5" y="-24.65" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="47" tweenType="motion" flag="">
+			<item x="-30.8" y="-20.4" rotation="0" depth="245" scaleX="0.375" scaleY="0.375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="48" tweenType="motion" flag="">
+			<item x="-12.5" y="-24.65" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="64" tweenType="motion" flag="">
+			<item x="-12.5" y="-24.65" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_workshop_03.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-12.6" y="-23.95" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="19" tweenType="motion" flag="">
+			<item x="-12.6" y="-23.95" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="20" tweenType="motion" flag="">
+			<item x="-12.6" y="-23.95" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="25" tweenType="motion" flag="">
+			<item x="-42.05" y="-17.25" rotation="0" depth="244" scaleX="0.149993896484375" scaleY="0.149993896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="26" tweenType="motion" flag="">
+			<item x="-12.6" y="-23.95" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="38" tweenType="motion" flag="">
+			<item x="-42.05" y="-17.25" rotation="0" depth="244" scaleX="0.149993896484375" scaleY="0.149993896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="39" tweenType="motion" flag="">
+			<item x="-12.6" y="-23.95" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="45" tweenType="motion" flag="">
+			<item x="-42.05" y="-17.25" rotation="0" depth="244" scaleX="0.149993896484375" scaleY="0.149993896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="46" tweenType="motion" flag="">
+			<item x="-12.6" y="-23.95" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="64" tweenType="motion" flag="">
+			<item x="-12.6" y="-23.95" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_workshop_03.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-12.5" y="-20.15" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="18" tweenType="motion" flag="">
+			<item x="-12.5" y="-24.65" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="19" tweenType="motion" flag="">
+			<item x="-12.5" y="-24.65" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="28" tweenType="motion" flag="">
+			<item x="-33.8" y="-16.4" rotation="0" depth="243" scaleX="0.375" scaleY="0.375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="-12.5" y="-24.65" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="38" tweenType="motion" flag="">
+			<item x="-33.8" y="-16.4" rotation="0" depth="243" scaleX="0.375" scaleY="0.375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="39" tweenType="motion" flag="">
+			<item x="-12.5" y="-24.65" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="48" tweenType="motion" flag="">
+			<item x="-33.8" y="-16.4" rotation="0" depth="243" scaleX="0.375" scaleY="0.375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="49" tweenType="motion" flag="">
+			<item x="-12.5" y="-24.65" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="64" tweenType="motion" flag="">
+			<item x="-12.5" y="-24.65" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_workshop_02.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-9.9" y="-15.2" rotation="0" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="16" tweenType="motion" flag="">
+			<item x="-9.9" y="-15.2" rotation="-360" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_workshop_05.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="1.85" y="-12.15" rotation="0" depth="241" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="64" tweenType="motion" flag="">
+			<item x="1.85" y="-12.15" rotation="0" depth="241" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+</animations>

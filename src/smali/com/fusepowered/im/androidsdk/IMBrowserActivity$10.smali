@@ -1,0 +1,47 @@
+.class Lcom/fusepowered/im/androidsdk/IMBrowserActivity$10;
+.super Ljava/lang/Object;
+.source "IMBrowserActivity.java"
+
+# interfaces
+.implements Landroid/view/View$OnTouchListener;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/fusepowered/im/androidsdk/IMBrowserActivity;->a(Landroid/view/ViewGroup;)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic a:Lcom/fusepowered/im/androidsdk/IMBrowserActivity;
+
+
+# direct methods
+.method constructor <init>(Lcom/fusepowered/im/androidsdk/IMBrowserActivity;)V
+    .locals 0
+
+    .prologue
+    .line 694
+    iput-object p1, p0, Lcom/fusepowered/im/androidsdk/IMBrowserActivity$10;->a:Lcom/fusepowered/im/androidsdk/IMBrowserActivity;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public onTouch(Landroid/view/View;Landroid/view/MotionEvent;)Z
+    .locals 1
+
+    .prologue
+    .line 697
+    const/4 v0, 0x1
+
+    return v0
+.end method

@@ -1,0 +1,177 @@
+.class public Lcom/fusepowered/nx/network/volley/Response;
+.super Ljava/lang/Object;
+.source "Response.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/MemberClasses;
+    value = {
+        Lcom/fusepowered/nx/network/volley/Response$ErrorListener;,
+        Lcom/fusepowered/nx/network/volley/Response$Listener;
+    }
+.end annotation
+
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "<T:",
+        "Ljava/lang/Object;",
+        ">",
+        "Ljava/lang/Object;"
+    }
+.end annotation
+
+
+# instance fields
+.field public final cacheEntry:Lcom/fusepowered/nx/network/volley/Cache$Entry;
+
+.field public final error:Lcom/fusepowered/nx/network/volley/VolleyError;
+
+.field public intermediate:Z
+
+.field public final result:Ljava/lang/Object;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "TT;"
+        }
+    .end annotation
+.end field
+
+
+# direct methods
+.method private constructor <init>(Lcom/fusepowered/nx/network/volley/VolleyError;)V
+    .locals 2
+    .param p1, "error"    # Lcom/fusepowered/nx/network/volley/VolleyError;
+
+    .prologue
+    .local p0, "this":Lcom/fusepowered/nx/network/volley/Response;, "Lcom/fusepowered/nx/network/volley/Response<TT;>;"
+    const/4 v1, 0x0
+
+    .line 81
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 65
+    const/4 v0, 0x0
+
+    iput-boolean v0, p0, Lcom/fusepowered/nx/network/volley/Response;->intermediate:Z
+
+    .line 82
+    iput-object v1, p0, Lcom/fusepowered/nx/network/volley/Response;->result:Ljava/lang/Object;
+
+    .line 83
+    iput-object v1, p0, Lcom/fusepowered/nx/network/volley/Response;->cacheEntry:Lcom/fusepowered/nx/network/volley/Cache$Entry;
+
+    .line 84
+    iput-object p1, p0, Lcom/fusepowered/nx/network/volley/Response;->error:Lcom/fusepowered/nx/network/volley/VolleyError;
+
+    .line 85
+    return-void
+.end method
+
+.method private constructor <init>(Ljava/lang/Object;Lcom/fusepowered/nx/network/volley/Cache$Entry;)V
+    .locals 1
+    .param p2, "cacheEntry"    # Lcom/fusepowered/nx/network/volley/Cache$Entry;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(TT;",
+            "Lcom/fusepowered/nx/network/volley/Cache$Entry;",
+            ")V"
+        }
+    .end annotation
+
+    .prologue
+    .line 75
+    .local p0, "this":Lcom/fusepowered/nx/network/volley/Response;, "Lcom/fusepowered/nx/network/volley/Response<TT;>;"
+    .local p1, "result":Ljava/lang/Object;, "TT;"
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 65
+    const/4 v0, 0x0
+
+    iput-boolean v0, p0, Lcom/fusepowered/nx/network/volley/Response;->intermediate:Z
+
+    .line 76
+    iput-object p1, p0, Lcom/fusepowered/nx/network/volley/Response;->result:Ljava/lang/Object;
+
+    .line 77
+    iput-object p2, p0, Lcom/fusepowered/nx/network/volley/Response;->cacheEntry:Lcom/fusepowered/nx/network/volley/Cache$Entry;
+
+    .line 78
+    const/4 v0, 0x0
+
+    iput-object v0, p0, Lcom/fusepowered/nx/network/volley/Response;->error:Lcom/fusepowered/nx/network/volley/VolleyError;
+
+    .line 79
+    return-void
+.end method
+
+.method public static error(Lcom/fusepowered/nx/network/volley/VolleyError;)Lcom/fusepowered/nx/network/volley/Response;
+    .locals 1
+    .param p0, "error"    # Lcom/fusepowered/nx/network/volley/VolleyError;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "<T:",
+            "Ljava/lang/Object;",
+            ">(",
+            "Lcom/fusepowered/nx/network/volley/VolleyError;",
+            ")",
+            "Lcom/fusepowered/nx/network/volley/Response",
+            "<TT;>;"
+        }
+    .end annotation
+
+    .prologue
+    .line 52
+    new-instance v0, Lcom/fusepowered/nx/network/volley/Response;
+
+    invoke-direct {v0, p0}, Lcom/fusepowered/nx/network/volley/Response;-><init>(Lcom/fusepowered/nx/network/volley/VolleyError;)V
+
+    return-object v0
+.end method
+
+.method public static success(Ljava/lang/Object;Lcom/fusepowered/nx/network/volley/Cache$Entry;)Lcom/fusepowered/nx/network/volley/Response;
+    .locals 1
+    .param p1, "cacheEntry"    # Lcom/fusepowered/nx/network/volley/Cache$Entry;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "<T:",
+            "Ljava/lang/Object;",
+            ">(TT;",
+            "Lcom/fusepowered/nx/network/volley/Cache$Entry;",
+            ")",
+            "Lcom/fusepowered/nx/network/volley/Response",
+            "<TT;>;"
+        }
+    .end annotation
+
+    .prologue
+    .line 44
+    .local p0, "result":Ljava/lang/Object;, "TT;"
+    new-instance v0, Lcom/fusepowered/nx/network/volley/Response;
+
+    invoke-direct {v0, p0, p1}, Lcom/fusepowered/nx/network/volley/Response;-><init>(Ljava/lang/Object;Lcom/fusepowered/nx/network/volley/Cache$Entry;)V
+
+    return-object v0
+.end method
+
+
+# virtual methods
+.method public isSuccess()Z
+    .locals 1
+
+    .prologue
+    .line 71
+    .local p0, "this":Lcom/fusepowered/nx/network/volley/Response;, "Lcom/fusepowered/nx/network/volley/Response<TT;>;"
+    iget-object v0, p0, Lcom/fusepowered/nx/network/volley/Response;->error:Lcom/fusepowered/nx/network/volley/VolleyError;
+
+    if-nez v0, :cond_0
+
+    const/4 v0, 0x1
+
+    :goto_0
+    return v0
+
+    :cond_0
+    const/4 v0, 0x0
+
+    goto :goto_0
+.end method

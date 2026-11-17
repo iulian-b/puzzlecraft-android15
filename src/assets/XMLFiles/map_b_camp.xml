@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="white_smoke.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-0.9" y="-43.95" rotation="-1.7925262451171875" depth="249" scaleX="0.1453857421875" scaleY="0.1453857421875" anchorX="0" anchorY="0" alpha="94.35" ease="none" />
+		</frame>
+		<frame index="86" tweenType="motion" flag="">
+			<item x="-1" y="-69.15" rotation="-15.001373291015625" depth="249" scaleX="0.087005615234375" scaleY="0.087005615234375" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="87" tweenType="motion" flag="">
+			<item x="-0.9" y="-40.15" rotation="0" depth="249" scaleX="0.154205322265625" scaleY="0.154205322265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="94" tweenType="motion" flag="">
+			<item x="-0.9" y="-42.2" rotation="-1.012298583984375" depth="249" scaleX="0.1494598388671875" scaleY="0.1494598388671875" anchorX="0" anchorY="0" alpha="102" ease="none" />
+		</frame>
+		<frame index="99" tweenType="motion" flag="">
+			<item x="-0.9" y="-43.6" rotation="-1.7541046142578125" depth="249" scaleX="0.1460723876953125" scaleY="0.1460723876953125" anchorX="0" anchorY="0" alpha="96.9" ease="none" />
+		</frame>
+	</animation>
+	<animation image="white_smoke.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-1.15" y="-50.2" rotation="6.050048828125" depth="248" scaleX="0.1902313232421875" scaleY="0.1902313232421875" anchorX="0" anchorY="0" alpha="79.05" ease="none" />
+		</frame>
+		<frame index="71" tweenType="motion" flag="">
+			<item x="-0.75" y="-78" rotation="22.05389404296875" depth="248" scaleX="0.13873291015625" scaleY="0.13873291015625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="72" tweenType="motion" flag="">
+			<item x="-1.25" y="-39.2" rotation="0" depth="248" scaleX="0.2106475830078125" scaleY="0.2106475830078125" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="79" tweenType="motion" flag="">
+			<item x="-1.2" y="-41.9" rotation="1.514739990234375" depth="248" scaleX="0.2055511474609375" scaleY="0.2055511474609375" anchorX="0" anchorY="0" alpha="102" ease="none" />
+		</frame>
+		<frame index="99" tweenType="motion" flag="">
+			<item x="-1.1" y="-49.7" rotation="5.8104705810546875" depth="248" scaleX="0.1909637451171875" scaleY="0.1909637451171875" anchorX="0" anchorY="0" alpha="79.05" ease="none" />
+		</frame>
+	</animation>
+	<animation image="white_smoke.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-0.65" y="-45" rotation="30.805633544921875" depth="247" scaleX="0.1316070556640625" scaleY="0.1316070556640625" anchorX="0" anchorY="0" alpha="58.65" ease="none" />
+		</frame>
+		<frame index="54" tweenType="motion" flag="">
+			<item x="-1.15" y="-49.95" rotation="67.70919799804688" depth="247" scaleX="0.1194000244140625" scaleY="0.1194000244140625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="55" tweenType="motion" flag="">
+			<item x="-0.15" y="-40.8" rotation="0" depth="247" scaleX="0.1421356201171875" scaleY="0.1421356201171875" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="62" tweenType="motion" flag="">
+			<item x="-0.25" y="-41.45" rotation="4.7598724365234375" depth="247" scaleX="0.1405029296875" scaleY="0.1405029296875" anchorX="0" anchorY="0" alpha="102" ease="none" />
+		</frame>
+		<frame index="99" tweenType="motion" flag="">
+			<item x="-0.6" y="-44.85" rotation="30.060821533203125" depth="247" scaleX="0.1318359375" scaleY="0.1318359375" anchorX="0" anchorY="0" alpha="61.2" ease="none" />
+		</frame>
+	</animation>
+	<animation image="white_smoke.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-1.45" y="-64.1" rotation="0" depth="246" scaleX="0.1186981201171875" scaleY="0.1186981201171875" anchorX="0" anchorY="0" alpha="40.8" ease="none" />
+		</frame>
+		<frame index="38" tweenType="motion" flag="">
+			<item x="-1.25" y="-78.5" rotation="0" depth="246" scaleX="0.11260986328125" scaleY="0.11260986328125" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="39" tweenType="motion" flag="">
+			<item x="-1.8" y="-40.95" rotation="0" depth="246" scaleX="0.128448486328125" scaleY="0.128448486328125" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="46" tweenType="motion" flag="">
+			<item x="-1.75" y="-43.6" rotation="0" depth="246" scaleX="0.1273345947265625" scaleY="0.1273345947265625" anchorX="0" anchorY="0" alpha="102" ease="none" />
+		</frame>
+		<frame index="99" tweenType="motion" flag="">
+			<item x="-1.45" y="-63.7" rotation="0" depth="246" scaleX="0.1188507080078125" scaleY="0.1188507080078125" anchorX="0" anchorY="0" alpha="43.35" ease="none" />
+		</frame>
+	</animation>
+	<animation image="white_smoke.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-0.5" y="-55.2" rotation="70.95535278320312" depth="245" scaleX="0.1228485107421875" scaleY="0.1228485107421875" anchorX="0" anchorY="0" alpha="22.95" ease="none" />
+		</frame>
+		<frame index="21" tweenType="motion" flag="">
+			<item x="-0.5" y="-59.5" rotation="90" depth="245" scaleX="-0.1100921630859375" scaleY="-0.1100921630859375" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="22" tweenType="motion" flag="">
+			<item x="-0.35" y="-39.2" rotation="0" depth="245" scaleX="0.1707916259765625" scaleY="0.1707916259765625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="-0.35" y="-40.65" rotation="6.2790679931640625" depth="245" scaleX="0.16644287109375" scaleY="0.16644287109375" anchorX="0" anchorY="0" alpha="102" ease="none" />
+		</frame>
+		<frame index="99" tweenType="motion" flag="">
+			<item x="-0.5" y="-55" rotation="69.97465515136719" depth="245" scaleX="0.1234283447265625" scaleY="0.1234283447265625" anchorX="0" anchorY="0" alpha="22.95" ease="none" />
+		</frame>
+	</animation>
+	<animation image="white_smoke.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-1.55" y="-59.35" rotation="-3.5327911376953125" depth="244" scaleX="0.128021240234375" scaleY="0.128021240234375" anchorX="0" anchorY="0" alpha="5.1" ease="none" />
+		</frame>
+		<frame index="4" tweenType="motion" flag="">
+			<item x="-1.6" y="-60.2" rotation="0" depth="244" scaleX="0.126861572265625" scaleY="0.126861572265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="5" tweenType="motion" flag="">
+			<item x="-2" y="-40.95" rotation="-90" depth="244" scaleX="-0.15631103515625" scaleY="-0.15631103515625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="12" tweenType="motion" flag="">
+			<item x="-1.95" y="-42.3" rotation="-83.7218017578125" depth="244" scaleX="0.1541900634765625" scaleY="0.1541900634765625" anchorX="0" anchorY="0" alpha="102" ease="none" />
+		</frame>
+		<frame index="99" tweenType="motion" flag="">
+			<item x="-1.65" y="-59.3" rotation="-4.51495361328125" depth="244" scaleX="0.1283111572265625" scaleY="0.1283111572265625" anchorX="0" anchorY="0" alpha="5.1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_camp.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="0.2" y="-37.3" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+</animations>

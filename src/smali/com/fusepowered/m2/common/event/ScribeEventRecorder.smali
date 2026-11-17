@@ -1,0 +1,433 @@
+.class public Lcom/fusepowered/m2/common/event/ScribeEventRecorder;
+.super Ljava/lang/Object;
+.source "ScribeEventRecorder.java"
+
+# interfaces
+.implements Lcom/fusepowered/m2/common/event/EventRecorder;
+
+
+# annotations
+.annotation system Ldalvik/annotation/MemberClasses;
+    value = {
+        Lcom/fusepowered/m2/common/event/ScribeEventRecorder$PollingRunnable;
+    }
+.end annotation
+
+
+# static fields
+.field private static final EVENT_COUNT_SEND_THRESHHOLD:I = 0x64
+
+.field private static final POLLING_PERIOD_MS:I = 0x1d4c0
+
+.field private static final QUEUE_MAX_SIZE:I = 0x1f4
+
+.field private static final SCRIBE_URL:Ljava/lang/String; = "https://analytics.mopub.com/i/jot/exchange_client_event"
+
+
+# instance fields
+.field private final mEventQueue:Ljava/util/Queue;
+    .annotation build Landroid/support/annotation/NonNull;
+    .end annotation
+
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/Queue",
+            "<",
+            "Lcom/fusepowered/m2/common/event/BaseEvent;",
+            ">;"
+        }
+    .end annotation
+.end field
+
+.field private final mEventSampler:Lcom/fusepowered/m2/common/event/EventSampler;
+    .annotation build Landroid/support/annotation/NonNull;
+    .end annotation
+.end field
+
+.field private final mEventSerializer:Lcom/fusepowered/m2/common/event/EventSerializer;
+    .annotation build Landroid/support/annotation/NonNull;
+    .end annotation
+.end field
+
+.field private final mPollHandler:Landroid/os/Handler;
+    .annotation build Landroid/support/annotation/NonNull;
+    .end annotation
+.end field
+
+.field private final mPollingRunnable:Lcom/fusepowered/m2/common/event/ScribeEventRecorder$PollingRunnable;
+    .annotation build Landroid/support/annotation/NonNull;
+    .end annotation
+.end field
+
+.field private final mScribeRequestManager:Lcom/fusepowered/m2/network/ScribeRequestManager;
+    .annotation build Landroid/support/annotation/NonNull;
+    .end annotation
+.end field
+
+
+# direct methods
+.method constructor <init>(Landroid/os/Looper;)V
+    .locals 6
+    .param p1, "looper"    # Landroid/os/Looper;
+        .annotation build Landroid/support/annotation/NonNull;
+        .end annotation
+    .end param
+
+    .prologue
+    .line 47
+    new-instance v1, Lcom/fusepowered/m2/common/event/EventSampler;
+
+    invoke-direct {v1}, Lcom/fusepowered/m2/common/event/EventSampler;-><init>()V
+
+    new-instance v2, Ljava/util/LinkedList;
+
+    invoke-direct {v2}, Ljava/util/LinkedList;-><init>()V
+
+    new-instance v3, Lcom/fusepowered/m2/common/event/EventSerializer;
+
+    invoke-direct {v3}, Lcom/fusepowered/m2/common/event/EventSerializer;-><init>()V
+
+    new-instance v4, Lcom/fusepowered/m2/network/ScribeRequestManager;
+
+    invoke-direct {v4, p1}, Lcom/fusepowered/m2/network/ScribeRequestManager;-><init>(Landroid/os/Looper;)V
+
+    new-instance v5, Landroid/os/Handler;
+
+    invoke-direct {v5, p1}, Landroid/os/Handler;-><init>(Landroid/os/Looper;)V
+
+    move-object v0, p0
+
+    invoke-direct/range {v0 .. v5}, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;-><init>(Lcom/fusepowered/m2/common/event/EventSampler;Ljava/util/Queue;Lcom/fusepowered/m2/common/event/EventSerializer;Lcom/fusepowered/m2/network/ScribeRequestManager;Landroid/os/Handler;)V
+
+    .line 52
+    return-void
+.end method
+
+.method constructor <init>(Lcom/fusepowered/m2/common/event/EventSampler;Ljava/util/Queue;Lcom/fusepowered/m2/common/event/EventSerializer;Lcom/fusepowered/m2/network/ScribeRequestManager;Landroid/os/Handler;)V
+    .locals 1
+    .param p1, "eventSampler"    # Lcom/fusepowered/m2/common/event/EventSampler;
+        .annotation build Landroid/support/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p2    # Ljava/util/Queue;
+        .annotation build Landroid/support/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p3, "eventSerializer"    # Lcom/fusepowered/m2/common/event/EventSerializer;
+        .annotation build Landroid/support/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p4, "scribeRequestManager"    # Lcom/fusepowered/m2/network/ScribeRequestManager;
+        .annotation build Landroid/support/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p5, "handler"    # Landroid/os/Handler;
+        .annotation build Landroid/support/annotation/NonNull;
+        .end annotation
+    .end param
+    .annotation build Lcom/fusepowered/m2/common/VisibleForTesting;
+    .end annotation
+
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(",
+            "Lcom/fusepowered/m2/common/event/EventSampler;",
+            "Ljava/util/Queue",
+            "<",
+            "Lcom/fusepowered/m2/common/event/BaseEvent;",
+            ">;",
+            "Lcom/fusepowered/m2/common/event/EventSerializer;",
+            "Lcom/fusepowered/m2/network/ScribeRequestManager;",
+            "Landroid/os/Handler;",
+            ")V"
+        }
+    .end annotation
+
+    .prologue
+    .line 59
+    .local p2, "eventQueue":Ljava/util/Queue;, "Ljava/util/Queue<Lcom/fusepowered/m2/common/event/BaseEvent;>;"
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 60
+    iput-object p1, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mEventSampler:Lcom/fusepowered/m2/common/event/EventSampler;
+
+    .line 61
+    iput-object p2, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mEventQueue:Ljava/util/Queue;
+
+    .line 62
+    iput-object p3, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mEventSerializer:Lcom/fusepowered/m2/common/event/EventSerializer;
+
+    .line 63
+    iput-object p4, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mScribeRequestManager:Lcom/fusepowered/m2/network/ScribeRequestManager;
+
+    .line 64
+    iput-object p5, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mPollHandler:Landroid/os/Handler;
+
+    .line 65
+    new-instance v0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder$PollingRunnable;
+
+    invoke-direct {v0, p0}, Lcom/fusepowered/m2/common/event/ScribeEventRecorder$PollingRunnable;-><init>(Lcom/fusepowered/m2/common/event/ScribeEventRecorder;)V
+
+    iput-object v0, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mPollingRunnable:Lcom/fusepowered/m2/common/event/ScribeEventRecorder$PollingRunnable;
+
+    .line 66
+    return-void
+.end method
+
+.method static synthetic access$000(Lcom/fusepowered/m2/common/event/ScribeEventRecorder;)Lcom/fusepowered/m2/common/event/EventSerializer;
+    .locals 1
+    .param p0, "x0"    # Lcom/fusepowered/m2/common/event/ScribeEventRecorder;
+
+    .prologue
+    .line 23
+    iget-object v0, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mEventSerializer:Lcom/fusepowered/m2/common/event/EventSerializer;
+
+    return-object v0
+.end method
+
+
+# virtual methods
+.method dequeueEvents()Ljava/util/List;
+    .locals 3
+    .annotation build Landroid/support/annotation/NonNull;
+    .end annotation
+
+    .annotation build Lcom/fusepowered/m2/common/VisibleForTesting;
+    .end annotation
+
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "()",
+            "Ljava/util/List",
+            "<",
+            "Lcom/fusepowered/m2/common/event/BaseEvent;",
+            ">;"
+        }
+    .end annotation
+
+    .prologue
+    .line 113
+    new-instance v0, Ljava/util/ArrayList;
+
+    invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
+
+    .line 117
+    .local v0, "baseEvents":Ljava/util/ArrayList;, "Ljava/util/ArrayList<Lcom/fusepowered/m2/common/event/BaseEvent;>;"
+    :goto_0
+    iget-object v1, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mEventQueue:Ljava/util/Queue;
+
+    invoke-interface {v1}, Ljava/util/Queue;->peek()Ljava/lang/Object;
+
+    move-result-object v1
+
+    if-eqz v1, :cond_0
+
+    invoke-virtual {v0}, Ljava/util/ArrayList;->size()I
+
+    move-result v1
+
+    const/16 v2, 0x64
+
+    if-ge v1, v2, :cond_0
+
+    .line 118
+    iget-object v1, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mEventQueue:Ljava/util/Queue;
+
+    invoke-interface {v1}, Ljava/util/Queue;->poll()Ljava/lang/Object;
+
+    move-result-object v1
+
+    invoke-virtual {v0, v1}, Ljava/util/ArrayList;->add(Ljava/lang/Object;)Z
+
+    goto :goto_0
+
+    .line 120
+    :cond_0
+    return-object v0
+.end method
+
+.method public record(Lcom/fusepowered/m2/common/event/BaseEvent;)V
+    .locals 2
+    .param p1, "baseEvent"    # Lcom/fusepowered/m2/common/event/BaseEvent;
+        .annotation build Landroid/support/annotation/NonNull;
+        .end annotation
+    .end param
+
+    .prologue
+    .line 70
+    iget-object v0, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mEventSampler:Lcom/fusepowered/m2/common/event/EventSampler;
+
+    invoke-virtual {v0, p1}, Lcom/fusepowered/m2/common/event/EventSampler;->sample(Lcom/fusepowered/m2/common/event/BaseEvent;)Z
+
+    move-result v0
+
+    if-nez v0, :cond_0
+
+    .line 86
+    :goto_0
+    return-void
+
+    .line 74
+    :cond_0
+    iget-object v0, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mEventQueue:Ljava/util/Queue;
+
+    invoke-interface {v0}, Ljava/util/Queue;->size()I
+
+    move-result v0
+
+    const/16 v1, 0x1f4
+
+    if-lt v0, v1, :cond_1
+
+    .line 75
+    new-instance v0, Ljava/lang/StringBuilder;
+
+    invoke-direct {v0}, Ljava/lang/StringBuilder;-><init>()V
+
+    const-string v1, "EventQueue is at max capacity. Event \""
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    invoke-virtual {p1}, Lcom/fusepowered/m2/common/event/BaseEvent;->getName()Lcom/fusepowered/m2/common/event/BaseEvent$Name;
+
+    move-result-object v1
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/Object;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    const-string v1, "\" is being dropped."
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v0
+
+    invoke-static {v0}, Lcom/fusepowered/m2/common/logging/MoPubLog;->d(Ljava/lang/String;)V
+
+    goto :goto_0
+
+    .line 80
+    :cond_1
+    iget-object v0, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mEventQueue:Ljava/util/Queue;
+
+    invoke-interface {v0, p1}, Ljava/util/Queue;->add(Ljava/lang/Object;)Z
+
+    .line 81
+    iget-object v0, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mEventQueue:Ljava/util/Queue;
+
+    invoke-interface {v0}, Ljava/util/Queue;->size()I
+
+    move-result v0
+
+    const/16 v1, 0x64
+
+    if-lt v0, v1, :cond_2
+
+    .line 82
+    invoke-virtual {p0}, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->sendEvents()V
+
+    .line 85
+    :cond_2
+    invoke-virtual {p0}, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->scheduleNextPoll()V
+
+    goto :goto_0
+.end method
+
+.method scheduleNextPoll()V
+    .locals 4
+    .annotation build Lcom/fusepowered/m2/common/VisibleForTesting;
+    .end annotation
+
+    .prologue
+    .line 128
+    iget-object v0, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mPollHandler:Landroid/os/Handler;
+
+    const/4 v1, 0x0
+
+    invoke-virtual {v0, v1}, Landroid/os/Handler;->hasMessages(I)Z
+
+    move-result v0
+
+    if-nez v0, :cond_0
+
+    iget-object v0, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mEventQueue:Ljava/util/Queue;
+
+    invoke-interface {v0}, Ljava/util/Queue;->isEmpty()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_1
+
+    .line 133
+    :cond_0
+    :goto_0
+    return-void
+
+    .line 132
+    :cond_1
+    iget-object v0, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mPollHandler:Landroid/os/Handler;
+
+    iget-object v1, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mPollingRunnable:Lcom/fusepowered/m2/common/event/ScribeEventRecorder$PollingRunnable;
+
+    const-wide/32 v2, 0x1d4c0
+
+    invoke-virtual {v0, v1, v2, v3}, Landroid/os/Handler;->postDelayed(Ljava/lang/Runnable;J)Z
+
+    goto :goto_0
+.end method
+
+.method sendEvents()V
+    .locals 4
+    .annotation build Lcom/fusepowered/m2/common/VisibleForTesting;
+    .end annotation
+
+    .prologue
+    .line 90
+    iget-object v1, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mScribeRequestManager:Lcom/fusepowered/m2/network/ScribeRequestManager;
+
+    invoke-virtual {v1}, Lcom/fusepowered/m2/network/ScribeRequestManager;->isAtCapacity()Z
+
+    move-result v1
+
+    if-eqz v1, :cond_1
+
+    .line 108
+    :cond_0
+    :goto_0
+    return-void
+
+    .line 94
+    :cond_1
+    invoke-virtual {p0}, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->dequeueEvents()Ljava/util/List;
+
+    move-result-object v0
+
+    .line 95
+    .local v0, "events":Ljava/util/List;, "Ljava/util/List<Lcom/fusepowered/m2/common/event/BaseEvent;>;"
+    invoke-interface {v0}, Ljava/util/List;->isEmpty()Z
+
+    move-result v1
+
+    if-nez v1, :cond_0
+
+    .line 99
+    iget-object v1, p0, Lcom/fusepowered/m2/common/event/ScribeEventRecorder;->mScribeRequestManager:Lcom/fusepowered/m2/network/ScribeRequestManager;
+
+    new-instance v2, Lcom/fusepowered/m2/common/event/ScribeEventRecorder$1;
+
+    invoke-direct {v2, p0, v0}, Lcom/fusepowered/m2/common/event/ScribeEventRecorder$1;-><init>(Lcom/fusepowered/m2/common/event/ScribeEventRecorder;Ljava/util/List;)V
+
+    new-instance v3, Lcom/fusepowered/m2/network/ScribeBackoffPolicy;
+
+    invoke-direct {v3}, Lcom/fusepowered/m2/network/ScribeBackoffPolicy;-><init>()V
+
+    invoke-virtual {v1, v2, v3}, Lcom/fusepowered/m2/network/ScribeRequestManager;->makeRequest(Lcom/fusepowered/m2/network/RequestManager$RequestFactory;Lcom/fusepowered/m2/network/BackoffPolicy;)V
+
+    goto :goto_0
+.end method

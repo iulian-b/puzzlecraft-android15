@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="pig_element_01.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-4.55" y="-50.35" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="8" tweenType="motion" flag="">
+			<item x="-4.55" y="-55.3" rotation="0" depth="249" scaleX="1.0857086181640625" scaleY="0.9788818359375" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="14" tweenType="motion" flag="">
+			<item x="-4.55" y="-52" rotation="0" depth="249" scaleX="1.0285491943359375" scaleY="0.9929656982421875" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="20" tweenType="motion" flag="">
+			<item x="-4.55" y="-55.3" rotation="0" depth="249" scaleX="1.0857086181640625" scaleY="0.9788818359375" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="-4.55" y="-50.35" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="-4.55" y="-50.35" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="pig_element_04.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="6.95" y="-22.9" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="8" tweenType="motion" flag="">
+			<item x="2.95" y="-26.25" rotation="23.833786010742188" depth="248" scaleX="0.583343505859375" scaleY="0.583343505859375" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="14" tweenType="motion" flag="">
+			<item x="5.6" y="-24" rotation="7.80145263671875" depth="248" scaleX="0.8607330322265625" scaleY="0.8607330322265625" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="20" tweenType="motion" flag="">
+			<item x="2.95" y="-26.25" rotation="23.833786010742188" depth="248" scaleX="0.583343505859375" scaleY="0.583343505859375" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="6.95" y="-22.9" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="6.95" y="-22.9" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="pig_element_03.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="3.45" y="-78.9" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="8" tweenType="motion" flag="">
+			<item x="3.45" y="-81.4" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="14" tweenType="motion" flag="">
+			<item x="3.45" y="-79.75" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="20" tweenType="motion" flag="">
+			<item x="3.45" y="-81.4" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="26" tweenType="motion" flag="">
+			<item x="3.45" y="-78.9" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="28" tweenType="motion" flag="">
+			<item x="3.45" y="-78.9" rotation="1.166107177734375" depth="247" scaleX="0.9982452392578125" scaleY="0.253814697265625" anchorX="0" anchorY="0" alpha="153" ease="none" />
+		</frame>
+		<frame index="30" tweenType="motion" flag="">
+			<item x="3.45" y="-78.9" rotation="1.166107177734375" depth="247" scaleX="0.9982452392578125" scaleY="0.253814697265625" anchorX="0" anchorY="0" alpha="153" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="3.45" y="-78.9" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="pig_element_02.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-8" y="-77.9" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="8" tweenType="motion" flag="">
+			<item x="-8" y="-80.4" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="14" tweenType="motion" flag="">
+			<item x="-8" y="-78.75" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="20" tweenType="motion" flag="">
+			<item x="-8" y="-80.4" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="26" tweenType="motion" flag="">
+			<item x="-8" y="-77.9" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="28" tweenType="motion" flag="">
+			<item x="-8" y="-77.9" rotation="-7.74908447265625" depth="246" scaleX="0.999176025390625" scaleY="0.2407073974609375" anchorX="0" anchorY="0" alpha="153" ease="none" />
+		</frame>
+		<frame index="30" tweenType="motion" flag="">
+			<item x="-8" y="-77.9" rotation="-7.74908447265625" depth="246" scaleX="0.999176025390625" scaleY="0.2407073974609375" anchorX="0" anchorY="0" alpha="153" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="-8" y="-77.9" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="pig_element_05.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-2.3" y="-43.9" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="8" tweenType="motion" flag="">
+			<item x="-2.3" y="-44.7" rotation="0" depth="245" scaleX="0.96966552734375" scaleY="1.0181884765625" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="14" tweenType="motion" flag="">
+			<item x="-2.3" y="-44.15" rotation="0" depth="245" scaleX="0.9898834228515625" scaleY="1.0060577392578125" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="20" tweenType="motion" flag="">
+			<item x="-2.3" y="-44.7" rotation="0" depth="245" scaleX="0.96966552734375" scaleY="1.0181884765625" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="-2.3" y="-43.9" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="-2.3" y="-43.9" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="pig_element_08.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="13.05" y="-85.6" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="8" tweenType="motion" flag="">
+			<item x="13.05" y="-82" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="14" tweenType="motion" flag="">
+			<item x="13.05" y="-84.4" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="20" tweenType="motion" flag="">
+			<item x="13.05" y="-82" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="13.05" y="-85.6" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="13.05" y="-85.6" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="pig_element_07.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-17.5" y="-82.75" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="8" tweenType="motion" flag="">
+			<item x="-17.5" y="-79.15" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="14" tweenType="motion" flag="">
+			<item x="-17.5" y="-81.55" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="20" tweenType="motion" flag="">
+			<item x="-17.5" y="-79.15" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="-17.5" y="-82.75" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="-17.5" y="-82.75" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="pig_element_06.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="35.9" y="-16.75" rotation="0" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="8" tweenType="motion" flag="">
+			<item x="31.1" y="-16.95" rotation="15.5343017578125" depth="242" scaleX="0.9990997314453125" scaleY="0.9990997314453125" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="14" tweenType="motion" flag="">
+			<item x="34.25" y="-16.75" rotation="5.0462799072265625" depth="242" scaleX="0.9994049072265625" scaleY="0.9994049072265625" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="20" tweenType="motion" flag="">
+			<item x="31.1" y="-16.95" rotation="15.5343017578125" depth="242" scaleX="0.9990997314453125" scaleY="0.9990997314453125" anchorX="0" anchorY="0" alpha="255" ease="easeOut" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="35.9" y="-16.75" rotation="0" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="35.9" y="-16.75" rotation="0" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+</animations>

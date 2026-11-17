@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="map_b_kennel_005.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-5.05" y="-0.95" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="-5.05" y="-0.95" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="59" tweenType="motion" flag="">
+			<item x="-5.05" y="-0.95" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="89" tweenType="motion" flag="">
+			<item x="-5.05" y="-0.95" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="120" tweenType="motion" flag="">
+			<item x="-5.05" y="-0.95" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="134" tweenType="motion" flag="">
+			<item x="-5.45" y="-2.3" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="157" tweenType="motion" flag="">
+			<item x="-5.45" y="-2.3" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="176" tweenType="motion" flag="">
+			<item x="-5.45" y="-2.3" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="189" tweenType="motion" flag="">
+			<item x="-5.45" y="-2.3" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="205" tweenType="motion" flag="">
+			<item x="-5.45" y="-2.3" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="222" tweenType="motion" flag="">
+			<item x="-5.05" y="-0.95" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_kennel_004.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-0.05" y="-6" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="-1.05" y="-7.2" rotation="7.481964111328125" depth="248" scaleX="0.9995880126953125" scaleY="0.9995880126953125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="59" tweenType="motion" flag="">
+			<item x="-0.05" y="-6" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="89" tweenType="motion" flag="">
+			<item x="-1.05" y="-7.2" rotation="7.481964111328125" depth="248" scaleX="0.9995880126953125" scaleY="0.9995880126953125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="120" tweenType="motion" flag="">
+			<item x="-0.05" y="-6" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="134" tweenType="motion" flag="">
+			<item x="-4.25" y="-10.2" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="157" tweenType="motion" flag="">
+			<item x="-4.25" y="-10.2" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="176" tweenType="motion" flag="">
+			<item x="-3.4" y="-7.7" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="189" tweenType="motion" flag="">
+			<item x="-3.4" y="-7.7" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="205" tweenType="motion" flag="">
+			<item x="-3.4" y="-7.05" rotation="8.261764526367188" depth="248" scaleX="0.999542236328125" scaleY="0.999542236328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="222" tweenType="motion" flag="">
+			<item x="-0.05" y="-6" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_kennel_003.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="6.5" y="-1.4" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="6.5" y="-1.4" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="59" tweenType="motion" flag="">
+			<item x="6.5" y="-1.4" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="89" tweenType="motion" flag="">
+			<item x="6.5" y="-1.4" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="120" tweenType="motion" flag="">
+			<item x="6.5" y="-1.4" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="134" tweenType="motion" flag="">
+			<item x="0.5" y="-3.05" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="157" tweenType="motion" flag="">
+			<item x="0.5" y="-3.05" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="176" tweenType="motion" flag="">
+			<item x="0.5" y="-3.05" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="189" tweenType="motion" flag="">
+			<item x="0.5" y="-3.05" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="205" tweenType="motion" flag="">
+			<item x="0.5" y="-3.05" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="222" tweenType="motion" flag="">
+			<item x="6.5" y="-1.4" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_kennel_002.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-16" y="-7.4" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="-16" y="-8.35" rotation="0" depth="246" scaleX="1.0535736083984375" scaleY="1.1478424072265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="59" tweenType="motion" flag="">
+			<item x="-16" y="-7.4" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="89" tweenType="motion" flag="">
+			<item x="-16" y="-8.35" rotation="0" depth="246" scaleX="1.0535736083984375" scaleY="1.1478424072265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="120" tweenType="motion" flag="">
+			<item x="-16" y="-7.4" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="134" tweenType="motion" flag="">
+			<item x="-16.85" y="-7.75" rotation="-1.7628326416015625" depth="246" scaleX="0.9568939208984375" scaleY="0.9998779296875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="157" tweenType="motion" flag="">
+			<item x="-16.85" y="-7.75" rotation="-1.7628326416015625" depth="246" scaleX="0.9568939208984375" scaleY="0.9998779296875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="176" tweenType="motion" flag="">
+			<item x="-16.85" y="-7.75" rotation="-1.7628326416015625" depth="246" scaleX="0.956878662109375" scaleY="0.9998779296875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="189" tweenType="motion" flag="">
+			<item x="-16.85" y="-7.75" rotation="-1.7628326416015625" depth="246" scaleX="0.956878662109375" scaleY="0.9998779296875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="205" tweenType="motion" flag="">
+			<item x="-16.85" y="-7.75" rotation="-1.7628326416015625" depth="246" scaleX="0.956878662109375" scaleY="0.9998779296875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="222" tweenType="motion" flag="">
+			<item x="-16" y="-7.4" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_kennel_001.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="0" y="-18.9" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="0" y="-18.9" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="59" tweenType="motion" flag="">
+			<item x="0" y="-18.9" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="89" tweenType="motion" flag="">
+			<item x="0" y="-18.9" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="120" tweenType="motion" flag="">
+			<item x="0" y="-18.9" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="134" tweenType="motion" flag="">
+			<item x="0" y="-18.9" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="157" tweenType="motion" flag="">
+			<item x="0" y="-18.9" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="176" tweenType="motion" flag="">
+			<item x="0" y="-18.9" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="189" tweenType="motion" flag="">
+			<item x="0" y="-18.9" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="205" tweenType="motion" flag="">
+			<item x="0" y="-18.9" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="222" tweenType="motion" flag="">
+			<item x="0" y="-18.9" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+</animations>

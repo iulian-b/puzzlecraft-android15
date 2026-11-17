@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="grass_autumn_element_06.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="21.7" y="-48.4" rotation="24.328567504882812" depth="249" scaleX="0.9972076416015625" scaleY="0.9972076416015625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="30" tweenType="motion" flag="">
+			<item x="26.95" y="-45.5" rotation="33.10101318359375" depth="249" scaleX="0.9969024658203125" scaleY="0.9969024658203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="65" tweenType="motion" flag="">
+			<item x="21" y="-48.85" rotation="23.2835693359375" depth="249" scaleX="0.9986572265625" scaleY="0.9986572265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="21.7" y="-48.4" rotation="24.328567504882812" depth="249" scaleX="0.9972076416015625" scaleY="0.9972076416015625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_autumn_element_03.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="26.15" y="-32.3" rotation="19.783416748046875" depth="248" scaleX="0.998382568359375" scaleY="0.998382568359375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="25" tweenType="motion" flag="">
+			<item x="28.2" y="-31.35" rotation="24.7012939453125" depth="248" scaleX="0.9983978271484375" scaleY="0.9983978271484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="60" tweenType="motion" flag="">
+			<item x="25.5" y="-32.55" rotation="18.033248901367188" depth="248" scaleX="0.9998321533203125" scaleY="0.9998321533203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="26.15" y="-32.3" rotation="19.783416748046875" depth="248" scaleX="0.998382568359375" scaleY="0.998382568359375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_autumn_element_04.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-31.4" y="-51.2" rotation="16.79400634765625" depth="247" scaleX="0.9976654052734375" scaleY="0.9976654052734375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="27" tweenType="motion" flag="">
+			<item x="-27.75" y="-49.35" rotation="24.833206176757812" depth="247" scaleX="0.9974517822265625" scaleY="0.9974517822265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="62" tweenType="motion" flag="">
+			<item x="-32.3" y="-51.75" rotation="14.796432495117188" depth="247" scaleX="0.9988555908203125" scaleY="0.9988555908203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="-31.4" y="-51.2" rotation="16.79400634765625" depth="247" scaleX="0.9976654052734375" scaleY="0.9976654052734375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_autumn_element_08.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-18.5" y="-49" rotation="19.052459716796875" depth="246" scaleX="0.997222900390625" scaleY="0.997222900390625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="20" tweenType="motion" flag="">
+			<item x="-15.75" y="-48.15" rotation="23.54345703125" depth="246" scaleX="0.9974822998046875" scaleY="0.9974822998046875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="55" tweenType="motion" flag="">
+			<item x="-20.3" y="-49.65" rotation="16.03460693359375" depth="246" scaleX="0.998779296875" scaleY="0.998779296875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="-18.5" y="-49" rotation="19.052459716796875" depth="246" scaleX="0.997222900390625" scaleY="0.997222900390625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_autumn_element_07.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="0.8" y="-52.35" rotation="24.074005126953125" depth="245" scaleX="0.9972076416015625" scaleY="0.9972076416015625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="23" tweenType="motion" flag="">
+			<item x="2.7" y="-51.4" rotation="27.065032958984375" depth="245" scaleX="0.9974517822265625" scaleY="0.9974517822265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="58" tweenType="motion" flag="">
+			<item x="-0.1" y="-52.8" rotation="22.7845458984375" depth="245" scaleX="0.998870849609375" scaleY="0.998870849609375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="0.8" y="-52.35" rotation="24.074005126953125" depth="245" scaleX="0.9972076416015625" scaleY="0.9972076416015625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_autumn_element_05.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="12.3" y="-47.6" rotation="20.55987548828125" depth="244" scaleX="0.9983673095703125" scaleY="0.9983673095703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="27" tweenType="motion" flag="">
+			<item x="15.2" y="-46.35" rotation="25.808258056640625" depth="244" scaleX="0.99835205078125" scaleY="0.99835205078125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="62" tweenType="motion" flag="">
+			<item x="11.55" y="-47.9" rotation="19.311386108398438" depth="244" scaleX="0.999755859375" scaleY="0.999755859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="12.3" y="-47.6" rotation="20.55987548828125" depth="244" scaleX="0.9983673095703125" scaleY="0.9983673095703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_autumn_element_02.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="37.95" y="-22.05" rotation="19.829086303710938" depth="243" scaleX="0.9983673095703125" scaleY="0.9983673095703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="40.35" y="-20.3" rotation="29.05535888671875" depth="243" scaleX="0.9967803955078125" scaleY="0.9967803955078125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="37.95" y="-22.05" rotation="19.829086303710938" depth="243" scaleX="0.9983673095703125" scaleY="0.9983673095703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="grass_autumn_element_01.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-5" y="-21.55" rotation="0" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="-5" y="-21.55" rotation="0" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="-5" y="-21.55" rotation="0" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+</animations>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="purcharse_id">
+        <item>moneytier1_v3b</item>
+        <item>moneytier2_v3b</item>
+        <item>moneytier3_v3b</item>
+        <item>moneytier5_v3b</item>
+        <item>moneytier10_v3b</item>
+        <item>moneytier25_v3b</item>
+    </string-array>
+</resources>

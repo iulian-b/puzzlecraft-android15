@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="map_b_saw_mill_003.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-4.9" y="-15.5" rotation="0" depth="249" scaleX="1.0199737548828125" scaleY="0.980010986328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="3" tweenType="motion" flag="">
+			<item x="-4.9" y="-15.05" rotation="0" depth="249" scaleX="0.990020751953125" scaleY="1.009979248046875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="4" tweenType="motion" flag="">
+			<item x="-4.9" y="-14.9" rotation="0" depth="249" scaleX="0.980010986328125" scaleY="1.0199737548828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="8" tweenType="motion" flag="">
+			<item x="-4.9" y="-15.5" rotation="0" depth="249" scaleX="1.0199737548828125" scaleY="0.980010986328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="12" tweenType="motion" flag="">
+			<item x="-4.9" y="-14.9" rotation="0" depth="249" scaleX="0.980010986328125" scaleY="1.0199737548828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="16" tweenType="motion" flag="">
+			<item x="-4.9" y="-15.5" rotation="0" depth="249" scaleX="1.0199737548828125" scaleY="0.980010986328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="20" tweenType="motion" flag="">
+			<item x="-4.9" y="-14.9" rotation="0" depth="249" scaleX="0.980010986328125" scaleY="1.0199737548828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="24" tweenType="motion" flag="">
+			<item x="-4.9" y="-15.5" rotation="0" depth="249" scaleX="1.0199737548828125" scaleY="0.980010986328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="28" tweenType="motion" flag="">
+			<item x="-4.9" y="-14.9" rotation="0" depth="249" scaleX="0.980010986328125" scaleY="1.0199737548828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="32" tweenType="motion" flag="">
+			<item x="-4.9" y="-15.5" rotation="0" depth="249" scaleX="1.0199737548828125" scaleY="0.980010986328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="36" tweenType="motion" flag="">
+			<item x="-4.9" y="-14.9" rotation="0" depth="249" scaleX="0.980010986328125" scaleY="1.0199737548828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="40" tweenType="motion" flag="">
+			<item x="-4.9" y="-15.5" rotation="0" depth="249" scaleX="1.0199737548828125" scaleY="0.980010986328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="44" tweenType="motion" flag="">
+			<item x="-4.9" y="-14.9" rotation="0" depth="249" scaleX="0.980010986328125" scaleY="1.0199737548828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="48" tweenType="motion" flag="">
+			<item x="-4.9" y="-15.5" rotation="0" depth="249" scaleX="1.0199737548828125" scaleY="0.980010986328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="52" tweenType="motion" flag="">
+			<item x="-4.9" y="-14.9" rotation="0" depth="249" scaleX="0.980010986328125" scaleY="1.0199737548828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="56" tweenType="motion" flag="">
+			<item x="-4.9" y="-15.5" rotation="0" depth="249" scaleX="1.0199737548828125" scaleY="0.980010986328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="60" tweenType="motion" flag="">
+			<item x="-4.9" y="-14.9" rotation="0" depth="249" scaleX="0.980010986328125" scaleY="1.0199737548828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="64" tweenType="motion" flag="">
+			<item x="-4.9" y="-15.5" rotation="0" depth="249" scaleX="1.0099945068359375" scaleY="0.9899749755859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_saw_mill_004.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-37.05" y="-11.4" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="59" tweenType="motion" flag="">
+			<item x="-37.05" y="-11.4" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="61" tweenType="motion" flag="">
+			<item x="-37.05" y="-10.9" rotation="0" depth="248" scaleX="1.0410308837890625" scaleY="0.9483642578125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="64" tweenType="motion" flag="">
+			<item x="-37.05" y="-11.4" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_saw_mill_007.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="18.45" y="-15.1" rotation="90" depth="247" scaleX="-0.488372802734375" scaleY="-0.81396484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="5" tweenType="motion" flag="">
+			<item x="10" y="-25.5" rotation="45" depth="247" scaleX="0.9999847412109375" scaleY="0.9999847412109375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="10" tweenType="motion" flag="">
+			<item x="5.5" y="-22.4" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="41" tweenType="motion" flag="">
+			<item x="-14.5" y="-22.4" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="43" tweenType="motion" flag="">
+			<item x="-14.5" y="-26.4" rotation="29.9998779296875" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="45" tweenType="motion" flag="">
+			<item x="-25.55" y="-35.85" rotation="100.82559204101562" depth="247" scaleX="-0.99871826171875" scaleY="-0.9987030029296875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="49" tweenType="motion" flag="">
+			<item x="-32.8" y="-38.15" rotation="160.24600219726562" depth="247" scaleX="-0.9967193603515625" scaleY="-0.9967193603515625" anchorX="1.3" anchorY="1.65" alpha="255" ease="none" />
+		</frame>
+		<frame index="53" tweenType="motion" flag="">
+			<item x="-39.7" y="-29.55" rotation="-116.31411743164062" depth="247" scaleX="-0.996368408203125" scaleY="-0.9963531494140625" anchorX="1.25" anchorY="1.6" alpha="255" ease="none" />
+		</frame>
+		<frame index="57" tweenType="motion" flag="">
+			<item x="-42.35" y="-15.85" rotation="-15.79852294921875" depth="247" scaleX="0.9957733154296875" scaleY="0.995758056640625" anchorX="1.25" anchorY="1.7" alpha="255" ease="none" />
+		</frame>
+		<frame index="60" tweenType="motion" flag="">
+			<item x="-44.15" y="-6.95" rotation="-15.799331665039062" depth="247" scaleX="0.6800384521484375" scaleY="0.680023193359375" anchorX="1.2" anchorY="1.65" alpha="255" ease="none" />
+		</frame>
+		<frame index="64" tweenType="motion" flag="">
+			<item x="-38.05" y="-8.15" rotation="-15.79852294921875" depth="247" scaleX="0.7844085693359375" scaleY="0.784393310546875" anchorX="1.25" anchorY="1.7" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_saw_mill_006.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="3.85" y="-26.55" rotation="0" depth="246" scaleX="0.3654022216796875" scaleY="0.3654022216796875" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="10" tweenType="motion" flag="">
+			<item x="3.85" y="-26.55" rotation="0" depth="246" scaleX="0.3654022216796875" scaleY="0.3654022216796875" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="11" tweenType="motion" flag="">
+			<item x="3.85" y="-26.55" rotation="0" depth="246" scaleX="0.5481109619140625" scaleY="0.5481109619140625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="21" tweenType="motion" flag="">
+			<item x="8.3" y="-33.75" rotation="165.00189208984375" depth="246" scaleX="-0.1210479736328125" scaleY="-0.1210479736328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="22" tweenType="motion" flag="">
+			<item x="-2.1" y="-21.2" rotation="-29.998565673828125" depth="246" scaleX="0.785919189453125" scaleY="0.7859344482421875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="2.3" y="-35.75" rotation="-120.0018310546875" depth="246" scaleX="-0.0826416015625" scaleY="-0.0826416015625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="35" tweenType="motion" flag="">
+			<item x="-9.45" y="-22.25" rotation="149.9988250732422" depth="246" scaleX="-0.8063507080078125" scaleY="-0.80633544921875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="45" tweenType="motion" flag="">
+			<item x="-5.7" y="-36.7" rotation="-74.99699401855469" depth="246" scaleX="0.0839996337890625" scaleY="0.0839996337890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="46" tweenType="motion" flag="">
+			<item x="-5.7" y="-36.7" rotation="-74.99699401855469" depth="246" scaleX="0.0839996337890625" scaleY="0.0839996337890625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="64" tweenType="motion" flag="">
+			<item x="-5.7" y="-36.7" rotation="-74.99699401855469" depth="246" scaleX="0.0839996337890625" scaleY="0.0839996337890625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_saw_mill_006.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="3.85" y="-26.55" rotation="0" depth="245" scaleX="0.3654022216796875" scaleY="0.3654022216796875" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="4" tweenType="motion" flag="">
+			<item x="6.85" y="-26.55" rotation="0" depth="245" scaleX="0.3654022216796875" scaleY="0.3654022216796875" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="5" tweenType="motion" flag="">
+			<item x="6.95" y="-27.45" rotation="0" depth="245" scaleX="0.5481109619140625" scaleY="0.5481109619140625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="15" tweenType="motion" flag="">
+			<item x="15.3" y="-32.75" rotation="-90" depth="245" scaleX="-0.0681610107421875" scaleY="-0.0681610107421875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="16" tweenType="motion" flag="">
+			<item x="0.85" y="-22.25" rotation="0" depth="245" scaleX="0.785919189453125" scaleY="0.785919189453125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="28" tweenType="motion" flag="">
+			<item x="8.3" y="-35.75" rotation="165.00352478027344" depth="245" scaleX="-0.094940185546875" scaleY="-0.094940185546875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="29" tweenType="motion" flag="">
+			<item x="-8.45" y="-19.25" rotation="149.9988250732422" depth="245" scaleX="-0.8063507080078125" scaleY="-0.80633544921875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="39" tweenType="motion" flag="">
+			<item x="1.3" y="-37.7" rotation="-75.00189208984375" depth="245" scaleX="0.2199859619140625" scaleY="0.2199859619140625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="40" tweenType="motion" flag="">
+			<item x="1.3" y="-37.7" rotation="-75.00189208984375" depth="245" scaleX="0.2199859619140625" scaleY="0.2199859619140625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="64" tweenType="motion" flag="">
+			<item x="1.3" y="-37.7" rotation="-75.00189208984375" depth="245" scaleX="0.2199859619140625" scaleY="0.2199859619140625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_saw_mill_006.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="18.45" y="-15.1" rotation="90" depth="244" scaleX="-0.488372802734375" scaleY="-0.81396484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="5" tweenType="motion" flag="">
+			<item x="10" y="-25.5" rotation="45" depth="244" scaleX="0.9999847412109375" scaleY="0.9999847412109375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="10" tweenType="motion" flag="">
+			<item x="5.5" y="-22.4" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="41" tweenType="motion" flag="">
+			<item x="-14.5" y="-22.4" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="43" tweenType="motion" flag="">
+			<item x="-17.5" y="-22.4" rotation="9.01971435546875" depth="244" scaleX="0.999481201171875" scaleY="0.999481201171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="45" tweenType="motion" flag="">
+			<item x="-22.05" y="-30.65" rotation="52.76432800292969" depth="244" scaleX="0.9990997314453125" scaleY="0.9990997314453125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="49" tweenType="motion" flag="">
+			<item x="-32.1" y="-36.55" rotation="97.76454162597656" depth="244" scaleX="-0.9991302490234375" scaleY="-0.9991302490234375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="53" tweenType="motion" flag="">
+			<item x="-36.65" y="-35.35" rotation="-172.23545837402344" depth="244" scaleX="-0.9991302490234375" scaleY="-0.9991302490234375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="57" tweenType="motion" flag="">
+			<item x="-41.65" y="-19.45" rotation="-56.71897888183594" depth="244" scaleX="0.998504638671875" scaleY="0.998504638671875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="60" tweenType="motion" flag="">
+			<item x="-44.35" y="-7.3" rotation="-11.719406127929688" depth="244" scaleX="0.6819000244140625" scaleY="0.6819000244140625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="64" tweenType="motion" flag="">
+			<item x="-38.25" y="-8.55" rotation="-11.71856689453125" depth="244" scaleX="0.7865753173828125" scaleY="0.7865753173828125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_saw_mill_002.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-2.9" y="-17.85" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="32" tweenType="motion" flag="">
+			<item x="-2.9" y="-17.85" rotation="360" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_saw_mill_001.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="8.2" y="-39.6" rotation="0" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_saw_mill_005.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="25.85" y="-6.8" rotation="0" depth="241" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_saw_mill_008.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="0" y="0.55" rotation="0" depth="240" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+</animations>

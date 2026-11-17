@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="map_b_lift_006.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="-1.5" y="-89.8" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_lift_005.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-0.75" y="-80.7" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="120" tweenType="motion" flag="">
+			<item x="-0.75" y="-80.7" rotation="360" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_lift_002.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="0" y="-15.8" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_lift_001.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="0.5" y="-21.25" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="120" tweenType="motion" flag="">
+			<item x="0.5" y="-21.25" rotation="360" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_lift_003.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-15.5" y="-47.35" rotation="1.0498809814453125" depth="245" scaleX="0.999359130859375" scaleY="0.999359130859375" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="90" tweenType="motion" flag="">
+			<item x="-15.5" y="-47.35" rotation="1.0498809814453125" depth="245" scaleX="0.999359130859375" scaleY="0.999359130859375" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="91" tweenType="motion" flag="">
+			<item x="-15.5" y="-47.35" rotation="1.0498809814453125" depth="245" scaleX="0.999359130859375" scaleY="0.999359130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="120" tweenType="motion" flag="">
+			<item x="-15.25" y="-61" rotation="1.19757080078125" depth="245" scaleX="0.9994049072265625" scaleY="0.9994049072265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_lift_003.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-15.5" y="-47.35" rotation="1.0498809814453125" depth="244" scaleX="0.999359130859375" scaleY="0.999359130859375" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="60" tweenType="motion" flag="">
+			<item x="-15.5" y="-47.35" rotation="1.0498809814453125" depth="244" scaleX="0.999359130859375" scaleY="0.999359130859375" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="61" tweenType="motion" flag="">
+			<item x="-15.5" y="-47.35" rotation="1.0498809814453125" depth="244" scaleX="0.999359130859375" scaleY="0.999359130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="90" tweenType="motion" flag="">
+			<item x="-15.25" y="-61" rotation="1.19757080078125" depth="244" scaleX="0.9994049072265625" scaleY="0.9994049072265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="91" tweenType="motion" flag="">
+			<item x="-15.25" y="-61" rotation="1.19757080078125" depth="244" scaleX="0.9994049072265625" scaleY="0.9994049072265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="120" tweenType="motion" flag="">
+			<item x="-15.25" y="-61" rotation="1.19757080078125" depth="244" scaleX="0.9994049072265625" scaleY="0.9994049072265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_lift_003.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-15.5" y="-47.35" rotation="1.0498809814453125" depth="243" scaleX="0.999359130859375" scaleY="0.999359130859375" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="30" tweenType="motion" flag="">
+			<item x="-15.5" y="-47.35" rotation="1.0498809814453125" depth="243" scaleX="0.999359130859375" scaleY="0.999359130859375" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="31" tweenType="motion" flag="">
+			<item x="-15.5" y="-47.35" rotation="1.0498809814453125" depth="243" scaleX="0.999359130859375" scaleY="0.999359130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="60" tweenType="motion" flag="">
+			<item x="-15.25" y="-61" rotation="1.19757080078125" depth="243" scaleX="0.9994049072265625" scaleY="0.9994049072265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="61" tweenType="motion" flag="">
+			<item x="-15.25" y="-61" rotation="1.19757080078125" depth="243" scaleX="0.9994049072265625" scaleY="0.9994049072265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="120" tweenType="motion" flag="">
+			<item x="-15.25" y="-61" rotation="1.19757080078125" depth="243" scaleX="0.9994049072265625" scaleY="0.9994049072265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_lift_003.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-15.5" y="-46.95" rotation="1.19757080078125" depth="242" scaleX="0.9994049072265625" scaleY="0.9994049072265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="30" tweenType="motion" flag="">
+			<item x="-15.25" y="-61" rotation="1.19757080078125" depth="242" scaleX="0.9994049072265625" scaleY="0.9994049072265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="31" tweenType="motion" flag="">
+			<item x="-15.25" y="-61" rotation="1.19757080078125" depth="242" scaleX="0.9994049072265625" scaleY="0.9994049072265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="120" tweenType="motion" flag="">
+			<item x="-15.25" y="-61" rotation="1.19757080078125" depth="242" scaleX="0.9994049072265625" scaleY="0.9994049072265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_lift_004.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="14.3" y="-62.25" rotation="-2.001251220703125" depth="241" scaleX="0.999908447265625" scaleY="0.999908447265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="90" tweenType="motion" flag="">
+			<item x="14.3" y="-62.25" rotation="-2.001251220703125" depth="241" scaleX="0.999908447265625" scaleY="0.999908447265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="91" tweenType="motion" flag="">
+			<item x="14.3" y="-62.25" rotation="-2.001251220703125" depth="241" scaleX="0.999908447265625" scaleY="0.999908447265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="120" tweenType="motion" flag="">
+			<item x="14.75" y="-48.7" rotation="-2.0003814697265625" depth="241" scaleX="1.0000152587890625" scaleY="1.0000152587890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_lift_004.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="14.3" y="-62.25" rotation="-2.001251220703125" depth="240" scaleX="0.999908447265625" scaleY="0.999908447265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="60" tweenType="motion" flag="">
+			<item x="14.3" y="-62.25" rotation="-2.001251220703125" depth="240" scaleX="0.999908447265625" scaleY="0.999908447265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="61" tweenType="motion" flag="">
+			<item x="14.3" y="-62.25" rotation="-2.001251220703125" depth="240" scaleX="0.999908447265625" scaleY="0.999908447265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="90" tweenType="motion" flag="">
+			<item x="14.75" y="-48.7" rotation="-2.0003814697265625" depth="240" scaleX="1.0000152587890625" scaleY="1.0000152587890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="91" tweenType="motion" flag="">
+			<item x="14.75" y="-48.7" rotation="-2.0003814697265625" depth="240" scaleX="1.0000152587890625" scaleY="1.0000152587890625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="120" tweenType="motion" flag="">
+			<item x="14.75" y="-48.7" rotation="-2.0003814697265625" depth="240" scaleX="1.0000152587890625" scaleY="1.0000152587890625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_lift_004.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="14.3" y="-62.25" rotation="-2.001251220703125" depth="239" scaleX="0.999908447265625" scaleY="0.999908447265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="30" tweenType="motion" flag="">
+			<item x="14.3" y="-62.25" rotation="-2.001251220703125" depth="239" scaleX="0.999908447265625" scaleY="0.999908447265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="31" tweenType="motion" flag="">
+			<item x="14.3" y="-62.25" rotation="-2.001251220703125" depth="239" scaleX="0.999908447265625" scaleY="0.999908447265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="60" tweenType="motion" flag="">
+			<item x="14.75" y="-48.7" rotation="-2.0003814697265625" depth="239" scaleX="1.0000152587890625" scaleY="1.0000152587890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="61" tweenType="motion" flag="">
+			<item x="14.75" y="-48.7" rotation="-2.0003814697265625" depth="239" scaleX="1.0000152587890625" scaleY="1.0000152587890625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="120" tweenType="motion" flag="">
+			<item x="14.75" y="-48.7" rotation="-2.0003814697265625" depth="239" scaleX="1.0000152587890625" scaleY="1.0000152587890625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_lift_004.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="14.3" y="-62.7" rotation="-2.0003814697265625" depth="238" scaleX="1.0000152587890625" scaleY="1.0000152587890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="30" tweenType="motion" flag="">
+			<item x="14.75" y="-48.7" rotation="-2.0003814697265625" depth="238" scaleX="1.0000152587890625" scaleY="1.0000152587890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="31" tweenType="motion" flag="">
+			<item x="14.3" y="-48.7" rotation="-2.0003814697265625" depth="238" scaleX="1.0000152587890625" scaleY="1.0000152587890625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="120" tweenType="motion" flag="">
+			<item x="14.3" y="-48.7" rotation="-2.0003814697265625" depth="238" scaleX="1.0000152587890625" scaleY="1.0000152587890625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_lift_001.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="0.5" y="-24.3" rotation="0" depth="237" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="120" tweenType="motion" flag="">
+			<item x="0.5" y="-24.3" rotation="360" depth="237" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+</animations>

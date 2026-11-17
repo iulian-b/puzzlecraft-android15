@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="explosion_04">
+		<frame index="0">
+			<item x="0" y="0" rotation="0" depth="0" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="3">
+			<item x="-1.3" y="3.5" rotation="180" depth="0" scaleX="0.3184967041015625" scaleY="0.3184967041015625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="5">
+			<item x="-0.4" y="3.25" rotation="137.866943359375" depth="0" scaleX="0.3582916259765625" scaleY="0.3582916259765625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="9">
+			<item x="1.2" y="2.7" rotation="70.43206787109375" depth="0" scaleX="0.42303466796875" scaleY="0.42303466796875" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="12">
+			<item x="2" y="2.4" rotation="34.36103820800781" depth="0" scaleX="0.4570770263671875" scaleY="0.4570770263671875" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="15">
+			<item x="2.55" y="2.3" rotation="11.248382568359375" depth="0" scaleX="0.4799957275390625" scaleY="0.4799957275390625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="17">
+			<item x="2.75" y="2.15" rotation="2.765777587890625" depth="0" scaleX="0.488006591796875" scaleY="0.488006591796875" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="19">
+			<item x="2.8" y="2.15" rotation="0" depth="0" scaleX="0.490753173828125" scaleY="0.490753173828125" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="explosion_02">
+		<frame index="0">
+			<item x="-5.25" y="-0.25" rotation="-45" depth="1" scaleX="0.748291015625" scaleY="0.748291015625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="3">
+			<item x="-4.1" y="-9.7" rotation="-44.99955749511719" depth="1" scaleX="1.0000152587890625" scaleY="1.0000152587890625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="5">
+			<item x="-2.75" y="-9.25" rotation="NaN" depth="1" scaleX="0.772857666015625" scaleY="0.7728729248046875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="9">
+			<item x="-0.7" y="-8.45" rotation="NaN" depth="1" scaleX="0.412017822265625" scaleY="0.412017822265625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="12">
+			<item x="0.45" y="-8.05" rotation="NaN" depth="1" scaleX="0.2203521728515625" scaleY="0.2203521728515625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="15">
+			<item x="1.1" y="-7.75" rotation="NaN" depth="1" scaleX="0.0963287353515625" scaleY="0.096343994140625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="17">
+			<item x="1.4" y="-7.65" rotation="NaN" depth="1" scaleX="0.05120849609375" scaleY="0.05133056640625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="19">
+			<item x="1.5" y="-7.6" rotation="NaN" depth="1" scaleX="0.0362396240234375" scaleY="0.0362548828125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="explosion_03">
+		<frame index="0">
+			<item x="6.5" y="10.35" rotation="-45" depth="2" scaleX="0.748291015625" scaleY="0.748291015625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="3">
+			<item x="6.4" y="18.3" rotation="-45" depth="2" scaleX="0.9999847412109375" scaleY="0.9999847412109375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="5">
+			<item x="8.25" y="25.15" rotation="NaN" depth="2" scaleX="0.7728271484375" scaleY="0.774078369140625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="9">
+			<item x="11.35" y="36.2" rotation="NaN" depth="2" scaleX="0.412017822265625" scaleY="0.412689208984375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="12">
+			<item x="13" y="42.1" rotation="NaN" depth="2" scaleX="0.2203216552734375" scaleY="0.220703125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="15">
+			<item x="14" y="45.85" rotation="NaN" depth="2" scaleX="0.0963287353515625" scaleY="0.0964508056640625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="17">
+			<item x="14.4" y="47.25" rotation="NaN" depth="2" scaleX="0.05120849609375" scaleY="0.05133056640625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="19">
+			<item x="14.55" y="47.7" rotation="NaN" depth="2" scaleX="0.0362396240234375" scaleY="0.0362548828125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="explosion_02">
+		<frame index="0">
+			<item x="3.65" y="-12.25" rotation="15.001373291015625" depth="3" scaleX="0.7482757568359375" scaleY="0.748260498046875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="3">
+			<item x="7.85" y="-25.75" rotation="14.999740600585938" depth="3" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="5">
+			<item x="9.85" y="-30.55" rotation="NaN" depth="3" scaleX="0.773468017578125" scaleY="0.773468017578125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="9">
+			<item x="12.95" y="-38.2" rotation="NaN" depth="3" scaleX="0.412353515625" scaleY="0.4123687744140625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="12">
+			<item x="14.75" y="-42.2" rotation="NaN" depth="3" scaleX="0.2205352783203125" scaleY="0.2205352783203125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="15">
+			<item x="15.75" y="-44.9" rotation="NaN" depth="3" scaleX="0.096435546875" scaleY="0.0964202880859375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="17">
+			<item x="16.15" y="-45.75" rotation="NaN" depth="3" scaleX="0.0512847900390625" scaleY="0.0512542724609375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="19">
+			<item x="16.3" y="-46.1" rotation="NaN" depth="3" scaleX="0.0362548828125" scaleY="0.0362548828125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="explosion_03">
+		<frame index="0">
+			<item x="-4.3" y="10.5" rotation="0" depth="4" scaleX="0.9639129638671875" scaleY="0.9639129638671875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="3">
+			<item x="-12.25" y="19.9" rotation="0" depth="4" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="5">
+			<item x="-20.65" y="20.9" rotation="0" depth="4" scaleX="0.7741241455078125" scaleY="0.7741241455078125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="9">
+			<item x="-34.05" y="22.55" rotation="0" depth="4" scaleX="0.4127197265625" scaleY="0.4127197265625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="12">
+			<item x="-41.2" y="23.4" rotation="0" depth="4" scaleX="0.2207183837890625" scaleY="0.2207183837890625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="15">
+			<item x="-45.8" y="24" rotation="0" depth="4" scaleX="0.09649658203125" scaleY="0.09649658203125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="17">
+			<item x="-47.5" y="24.2" rotation="0" depth="4" scaleX="0.0513153076171875" scaleY="0.0513153076171875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="19">
+			<item x="-48.05" y="24.25" rotation="0" depth="4" scaleX="0.0362548828125" scaleY="0.0362548828125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="explosion_03">
+		<frame index="0">
+			<item x="4.25" y="13.85" rotation="0" depth="5" scaleX="0.9639129638671875" scaleY="0.9639129638671875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="3">
+			<item x="18.7" y="19.35" rotation="0" depth="5" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="5">
+			<item x="25.65" y="21.4" rotation="0" depth="5" scaleX="0.7741241455078125" scaleY="0.7741241455078125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="9">
+			<item x="36.8" y="24.6" rotation="0" depth="5" scaleX="0.4127197265625" scaleY="0.4127197265625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="12">
+			<item x="42.7" y="26.35" rotation="0" depth="5" scaleX="0.2207183837890625" scaleY="0.2207183837890625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="15">
+			<item x="46.55" y="27.45" rotation="0" depth="5" scaleX="0.09649658203125" scaleY="0.09649658203125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="17">
+			<item x="47.95" y="27.85" rotation="0" depth="5" scaleX="0.0513153076171875" scaleY="0.0513153076171875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="19">
+			<item x="48.4" y="28" rotation="0" depth="5" scaleX="0.0362548828125" scaleY="0.0362548828125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="explosion_02">
+		<frame index="0">
+			<item x="15.45" y="0.3" rotation="74.99945068359375" depth="6" scaleX="0.9639129638671875" scaleY="0.9639129638671875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="3">
+			<item x="33.1" y="-12.65" rotation="75.00025939941406" depth="6" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="5">
+			<item x="36.95" y="-17.8" rotation="74.98558044433594" depth="6" scaleX="0.7734832763671875" scaleY="0.7734832763671875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="9">
+			<item x="43" y="-26.05" rotation="74.98558044433594" depth="6" scaleX="0.4123687744140625" scaleY="0.4123687744140625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="12">
+			<item x="46.25" y="-30.5" rotation="74.98721313476562" depth="6" scaleX="0.2205352783203125" scaleY="0.2205352783203125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="15">
+			<item x="48.35" y="-33.2" rotation="74.99618530273438" depth="6" scaleX="0.096435546875" scaleY="0.096435546875" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="17">
+			<item x="49.1" y="-34.3" rotation="74.97987365722656" depth="6" scaleX="0.0512847900390625" scaleY="0.0512847900390625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="19">
+			<item x="49.35" y="-34.65" rotation="74.99862670898438" depth="6" scaleX="0.0362548828125" scaleY="0.0362548828125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+	<animation image="explosion_01">
+		<frame index="0">
+			<item x="-3.8" y="-5.65" rotation="-36.36296081542969" depth="7" scaleX="0.9624176025390625" scaleY="0.9624176025390625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="3">
+			<item x="-13.25" y="-21.3" rotation="-36.36296081542969" depth="7" scaleX="0.9984283447265625" scaleY="0.9984283447265625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="5">
+			<item x="-20.25" y="-27.3" rotation="-36.34254455566406" depth="7" scaleX="0.7716827392578125" scaleY="0.7716827392578125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="9">
+			<item x="-31.4" y="-36.95" rotation="-36.337432861328125" depth="7" scaleX="0.411407470703125" scaleY="0.411407470703125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="12">
+			<item x="-37.35" y="-42.05" rotation="-36.33573913574219" depth="7" scaleX="0.22003173828125" scaleY="0.22003173828125" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="15">
+			<item x="-41.25" y="-45.3" rotation="-36.34083557128906" depth="7" scaleX="0.0961761474609375" scaleY="0.0961761474609375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="17">
+			<item x="-42.65" y="-46.5" rotation="-36.3363037109375" depth="7" scaleX="0.0511474609375" scaleY="0.0511474609375" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+		<frame index="19">
+			<item x="-43.05" y="-46.9" rotation="-36.343109130859375" depth="7" scaleX="0.03619384765625" scaleY="0.03619384765625" anchorX="0" anchorY="0" alpha="1" ease="none" />
+		</frame>
+	</animation>
+</animations>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="map_windmill_02.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="0" y="-52.8" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="199" tweenType="motion" flag="">
+			<item x="0" y="-52.8" rotation="-360" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_windmill_01.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="0" y="-37.7" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+</animations>

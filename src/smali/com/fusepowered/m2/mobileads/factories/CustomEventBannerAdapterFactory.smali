@@ -1,0 +1,161 @@
+.class public Lcom/fusepowered/m2/mobileads/factories/CustomEventBannerAdapterFactory;
+.super Ljava/lang/Object;
+.source "CustomEventBannerAdapterFactory.java"
+
+
+# static fields
+.field protected static instance:Lcom/fusepowered/m2/mobileads/factories/CustomEventBannerAdapterFactory;
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 1
+
+    .prologue
+    .line 12
+    new-instance v0, Lcom/fusepowered/m2/mobileads/factories/CustomEventBannerAdapterFactory;
+
+    invoke-direct {v0}, Lcom/fusepowered/m2/mobileads/factories/CustomEventBannerAdapterFactory;-><init>()V
+
+    sput-object v0, Lcom/fusepowered/m2/mobileads/factories/CustomEventBannerAdapterFactory;->instance:Lcom/fusepowered/m2/mobileads/factories/CustomEventBannerAdapterFactory;
+
+    return-void
+.end method
+
+.method public constructor <init>()V
+    .locals 0
+
+    .prologue
+    .line 11
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+.method public static create(Lcom/fusepowered/m2/mobileads/MoPubView;Ljava/lang/String;Ljava/util/Map;JLcom/fusepowered/m2/common/AdReport;)Lcom/fusepowered/m2/mobileads/CustomEventBannerAdapter;
+    .locals 7
+    .param p0, "moPubView"    # Lcom/fusepowered/m2/mobileads/MoPubView;
+        .annotation build Landroid/support/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p1, "className"    # Ljava/lang/String;
+        .annotation build Landroid/support/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p2    # Ljava/util/Map;
+        .annotation build Landroid/support/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p3, "broadcastIdentifier"    # J
+    .param p5, "adReport"    # Lcom/fusepowered/m2/common/AdReport;
+        .annotation build Landroid/support/annotation/NonNull;
+        .end annotation
+    .end param
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(",
+            "Lcom/fusepowered/m2/mobileads/MoPubView;",
+            "Ljava/lang/String;",
+            "Ljava/util/Map",
+            "<",
+            "Ljava/lang/String;",
+            "Ljava/lang/String;",
+            ">;J",
+            "Lcom/fusepowered/m2/common/AdReport;",
+            ")",
+            "Lcom/fusepowered/m2/mobileads/CustomEventBannerAdapter;"
+        }
+    .end annotation
+
+    .prologue
+    .line 24
+    .local p2, "serverExtras":Ljava/util/Map;, "Ljava/util/Map<Ljava/lang/String;Ljava/lang/String;>;"
+    sget-object v0, Lcom/fusepowered/m2/mobileads/factories/CustomEventBannerAdapterFactory;->instance:Lcom/fusepowered/m2/mobileads/factories/CustomEventBannerAdapterFactory;
+
+    move-object v1, p0
+
+    move-object v2, p1
+
+    move-object v3, p2
+
+    move-wide v4, p3
+
+    move-object v6, p5
+
+    invoke-virtual/range {v0 .. v6}, Lcom/fusepowered/m2/mobileads/factories/CustomEventBannerAdapterFactory;->internalCreate(Lcom/fusepowered/m2/mobileads/MoPubView;Ljava/lang/String;Ljava/util/Map;JLcom/fusepowered/m2/common/AdReport;)Lcom/fusepowered/m2/mobileads/CustomEventBannerAdapter;
+
+    move-result-object v0
+
+    return-object v0
+.end method
+
+.method public static setInstance(Lcom/fusepowered/m2/mobileads/factories/CustomEventBannerAdapterFactory;)V
+    .locals 0
+    .param p0, "factory"    # Lcom/fusepowered/m2/mobileads/factories/CustomEventBannerAdapterFactory;
+    .annotation runtime Ljava/lang/Deprecated;
+    .end annotation
+
+    .prologue
+    .line 16
+    sput-object p0, Lcom/fusepowered/m2/mobileads/factories/CustomEventBannerAdapterFactory;->instance:Lcom/fusepowered/m2/mobileads/factories/CustomEventBannerAdapterFactory;
+
+    .line 17
+    return-void
+.end method
+
+
+# virtual methods
+.method protected internalCreate(Lcom/fusepowered/m2/mobileads/MoPubView;Ljava/lang/String;Ljava/util/Map;JLcom/fusepowered/m2/common/AdReport;)Lcom/fusepowered/m2/mobileads/CustomEventBannerAdapter;
+    .locals 8
+    .param p1, "moPubView"    # Lcom/fusepowered/m2/mobileads/MoPubView;
+        .annotation build Landroid/support/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p2, "className"    # Ljava/lang/String;
+        .annotation build Landroid/support/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p3    # Ljava/util/Map;
+        .annotation build Landroid/support/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p4, "broadcastIdentifier"    # J
+    .param p6, "adReport"    # Lcom/fusepowered/m2/common/AdReport;
+        .annotation build Landroid/support/annotation/NonNull;
+        .end annotation
+    .end param
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(",
+            "Lcom/fusepowered/m2/mobileads/MoPubView;",
+            "Ljava/lang/String;",
+            "Ljava/util/Map",
+            "<",
+            "Ljava/lang/String;",
+            "Ljava/lang/String;",
+            ">;J",
+            "Lcom/fusepowered/m2/common/AdReport;",
+            ")",
+            "Lcom/fusepowered/m2/mobileads/CustomEventBannerAdapter;"
+        }
+    .end annotation
+
+    .prologue
+    .line 32
+    .local p3, "serverExtras":Ljava/util/Map;, "Ljava/util/Map<Ljava/lang/String;Ljava/lang/String;>;"
+    new-instance v0, Lcom/fusepowered/m2/mobileads/CustomEventBannerAdapter;
+
+    move-object v1, p1
+
+    move-object v2, p2
+
+    move-object v3, p3
+
+    move-wide v4, p4
+
+    move-object v6, p6
+
+    invoke-direct/range {v0 .. v6}, Lcom/fusepowered/m2/mobileads/CustomEventBannerAdapter;-><init>(Lcom/fusepowered/m2/mobileads/MoPubView;Ljava/lang/String;Ljava/util/Map;JLcom/fusepowered/m2/common/AdReport;)V
+
+    return-object v0
+.end method

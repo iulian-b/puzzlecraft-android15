@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<key>image</key>
+	<string>bubble_bg.png</string>
+	
+	<key>reflection</key>
+	<string>bubble_fg.png</string>
+
+	<key>popSprayImage</key>
+	<string>pop_particle.png</string>
+	
+	<key>popSplashImage</key>
+	<string>pop_splash.png</string>
+	
+	<key>cornerHighlightImage</key>
+	<string>bubble_highlight.png</string>
+	
+	<key>reflectionsEnabled</key>
+	<boolean>true</boolean>
+	
+	<key>size</key>
+	<float>256</float>
+	
+	<key>speed</key>
+	<float>30</float>
+	
+	<key>rotationRateZ</key>
+	<float>4</float>
+	
+	<key>releaseSpeed</key>
+	<float>2000</float>
+	
+	<key>releaseAngle</key>
+	<float>45</float>
+	
+	<key>iconScale</key>
+	<float>0.7</float>
+	
+	<key>cornerPulseIconEnabled</key>
+	<boolean>true</boolean>
+	
+	<key>cornerPulseIconTimer</key>
+	<float>5</float>
+	
+	<key>cornerPulseIconCount</key>
+	<integer>2</integer>
+	
+	<key>floatingPopMethod</key>
+	<integer>1</integer>
+	
+	<key>floatingWobbleXAmplitude</key>
+	<float>10.25</float>
+	
+	<key>floatingWobbleXFrequency</key>
+	<float>2.25</float>
+	
+	<key>floatingWobbleYAmplitude</key>
+	<float>8.75</float>
+	
+	<key>floatingWobbleYFrequency</key>
+	<float>4.75</float>
+	
+	<key>collisionToNodeAmplitude</key>
+	<integer>5</integer>
+	
+	<key>collisionToNodeFrequency</key>
+	<integer>50</integer>
+	
+	<key>floatingSpeedDampen</key>
+	<float>0.9</float>
+	
+	<key>floatingAngleChangeEnabled</key>
+	<boolean>true</boolean>
+	
+	<key>floatingAngleChange</key>
+	<float>35</float>
+	
+	<key>floatingAngleChangeTime</key>
+	<integer>1</integer>

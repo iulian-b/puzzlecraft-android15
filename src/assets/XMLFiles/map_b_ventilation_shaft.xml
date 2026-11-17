@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>24</fps>
+	<animation image="methane_cloud.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="13.2" y="-40" rotation="0" depth="249" scaleX="0.1382293701171875" scaleY="0.1382293701171875" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="14" tweenType="motion" flag="">
+			<item x="13.2" y="-54" rotation="-2.0178375244140625" depth="249" scaleX="0.2599945068359375" scaleY="0.2599945068359375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="56" tweenType="motion" flag="">
+			<item x="13.2" y="-96" rotation="-8.311416625976562" depth="249" scaleX="0.6254119873046875" scaleY="0.6254119873046875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="99" tweenType="motion" flag="">
+			<item x="13.2" y="-139" rotation="-14.999740600585938" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="359" tweenType="motion" flag="">
+			<item x="13.2" y="-139" rotation="-14.999740600585938" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="methane_cloud.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="20.6" y="-31.75" rotation="0" depth="248" scaleX="0.32647705078125" scaleY="0.32647705078125" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="10" tweenType="motion" flag="">
+			<item x="20.6" y="-31.75" rotation="0" depth="248" scaleX="0.32647705078125" scaleY="0.32647705078125" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="27" tweenType="motion" flag="">
+			<item x="20.6" y="-47.2" rotation="3.7635345458984375" depth="248" scaleX="0.474884033203125" scaleY="0.474884033203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="71" tweenType="motion" flag="">
+			<item x="20.65" y="-87.15" rotation="13.500167846679688" depth="248" scaleX="0.8600006103515625" scaleY="0.8600006103515625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="109" tweenType="motion" flag="">
+			<item x="20.65" y="-121.75" rotation="22.052383422851562" depth="248" scaleX="1.192596435546875" scaleY="1.1926116943359375" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="359" tweenType="motion" flag="">
+			<item x="20.65" y="-121.75" rotation="22.052383422851562" depth="248" scaleX="1.1905975341796875" scaleY="1.1905975341796875" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="methane_cloud.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="22" y="-41.25" rotation="0" depth="247" scaleX="0.1884765625" scaleY="0.1884765625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="40" tweenType="motion" flag="">
+			<item x="22" y="-41.25" rotation="0" depth="247" scaleX="0.1884765625" scaleY="0.1884765625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="63" tweenType="motion" flag="">
+			<item x="20.35" y="-58" rotation="15.570816040039062" depth="247" scaleX="0.3766021728515625" scaleY="0.3766021728515625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="110" tweenType="motion" flag="">
+			<item x="17.05" y="-92.2" rotation="47.86982727050781" depth="247" scaleX="0.760650634765625" scaleY="0.760650634765625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="139" tweenType="motion" flag="">
+			<item x="15" y="-113.25" rotation="67.70693969726562" depth="247" scaleX="0.999603271484375" scaleY="0.999603271484375" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="359" tweenType="motion" flag="">
+			<item x="15" y="-113.25" rotation="67.70693969726562" depth="247" scaleX="0.999603271484375" scaleY="0.999603271484375" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="methane_cloud.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="17.4" y="-45.45" rotation="0" depth="246" scaleX="0.4720611572265625" scaleY="0.4720611572265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="178" tweenType="motion" flag="">
+			<item x="17.4" y="-45.45" rotation="0" depth="246" scaleX="0.4720611572265625" scaleY="0.4720611572265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="197" tweenType="motion" flag="">
+			<item x="17.55" y="-57.5" rotation="-8.538116455078125" depth="246" scaleX="0.5731048583984375" scaleY="0.5731048583984375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="242" tweenType="motion" flag="">
+			<item x="17.8" y="-86.05" rotation="-29.05535888671875" depth="246" scaleX="0.8120880126953125" scaleY="0.8120880126953125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="277" tweenType="motion" flag="">
+			<item x="17.95" y="-108.25" rotation="-45" depth="246" scaleX="0.9999847412109375" scaleY="0.9999847412109375" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="359" tweenType="motion" flag="">
+			<item x="17.95" y="-108.25" rotation="-45" depth="246" scaleX="0.9999847412109375" scaleY="0.9999847412109375" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_ventilation_shaft.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="6.8" y="-22.8" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="methane_cloud.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="6.45" y="-39.85" rotation="0" depth="244" scaleX="0.226470947265625" scaleY="0.226470947265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="247" tweenType="motion" flag="">
+			<item x="6.45" y="-39.85" rotation="0" depth="244" scaleX="0.226470947265625" scaleY="0.226470947265625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="261" tweenType="motion" flag="">
+			<item x="7.6" y="-45.45" rotation="6.280792236328125" depth="244" scaleX="0.3357391357421875" scaleY="0.3357391357421875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="300" tweenType="motion" flag="">
+			<item x="10.75" y="-61.3" rotation="24.043380737304688" depth="244" scaleX="0.6397247314453125" scaleY="0.6397247314453125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="346" tweenType="motion" flag="">
+			<item x="14.45" y="-79.85" rotation="45" depth="244" scaleX="0.9999847412109375" scaleY="0.9999847412109375" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="359" tweenType="motion" flag="">
+			<item x="14.45" y="-79.85" rotation="45" depth="244" scaleX="0.9999847412109375" scaleY="0.9999847412109375" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+	<animation image="methane_cloud.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="21.6" y="-24.65" rotation="-90" depth="243" scaleX="-0.207275390625" scaleY="-0.207275390625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="260" tweenType="motion" flag="">
+			<item x="21.6" y="-24.65" rotation="-90" depth="243" scaleX="-0.207275390625" scaleY="-0.207275390625" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+		<frame index="283" tweenType="motion" flag="">
+			<item x="21.6" y="-53.7" rotation="-69.1876220703125" depth="243" scaleX="0.407470703125" scaleY="0.407470703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="329" tweenType="motion" flag="">
+			<item x="21.6" y="-111.75" rotation="-27.303695678710938" depth="243" scaleX="0.8079071044921875" scaleY="0.8079071044921875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="359" tweenType="motion" flag="">
+			<item x="21.6" y="-146.55" rotation="0" depth="243" scaleX="1.070831298828125" scaleY="1.070831298828125" anchorX="0" anchorY="0" alpha="0" ease="none" />
+		</frame>
+	</animation>
+</animations>

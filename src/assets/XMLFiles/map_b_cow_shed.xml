@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="map_b_cow_shed_008.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-19.95" y="-1.4" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="13" tweenType="motion" flag="">
+			<item x="-19.45" y="0.5" rotation="0" depth="249" scaleX="0.9516143798828125" scaleY="1.0833282470703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="27" tweenType="motion" flag="">
+			<item x="-20.05" y="-2.2" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="40" tweenType="motion" flag="">
+			<item x="-18.6" y="-2.1" rotation="-6.2946014404296875" depth="249" scaleX="0.9512481689453125" scaleY="1.0829315185546875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="54" tweenType="motion" flag="">
+			<item x="-18.95" y="-1.4" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="67" tweenType="motion" flag="">
+			<item x="-17.95" y="-0.65" rotation="-8.855911254882812" depth="249" scaleX="0.95111083984375" scaleY="1.0827484130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="81" tweenType="motion" flag="">
+			<item x="-18" y="-2.95" rotation="-6.057830810546875" depth="249" scaleX="0.999664306640625" scaleY="0.999664306640625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="93" tweenType="motion" flag="">
+			<item x="-20.85" y="-5.95" rotation="-8.855911254882812" depth="249" scaleX="0.95111083984375" scaleY="1.0827484130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="105" tweenType="motion" flag="">
+			<item x="-24.7" y="-9.75" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="118" tweenType="motion" flag="">
+			<item x="-22.9" y="-6.55" rotation="0" depth="249" scaleX="0.9516143798828125" scaleY="1.0833282470703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="131" tweenType="motion" flag="">
+			<item x="-24.7" y="-9.75" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="143" tweenType="motion" flag="">
+			<item x="-22.9" y="-6.55" rotation="0" depth="249" scaleX="0.9516143798828125" scaleY="1.0833282470703125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="156" tweenType="motion" flag="">
+			<item x="-24.7" y="-9.75" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="168" tweenType="motion" flag="">
+			<item x="-20.2" y="-3.4" rotation="-5.7914276123046875" depth="249" scaleX="0.96710205078125" scaleY="1.054840087890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="181" tweenType="motion" flag="">
+			<item x="-19.95" y="-1.4" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_cow_shed_007.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-23.5" y="-6.25" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="13" tweenType="motion" flag="">
+			<item x="-23.5" y="-6.25" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="27" tweenType="motion" flag="">
+			<item x="-23.6" y="-7.05" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="40" tweenType="motion" flag="">
+			<item x="-23.35" y="-8.35" rotation="-6.2946014404296875" depth="248" scaleX="0.9996185302734375" scaleY="0.9996185302734375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="54" tweenType="motion" flag="">
+			<item x="-22.5" y="-6.25" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="67" tweenType="motion" flag="">
+			<item x="-23.05" y="-6.75" rotation="-8.855911254882812" depth="248" scaleX="0.999481201171875" scaleY="0.999481201171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="81" tweenType="motion" flag="">
+			<item x="-22" y="-7.35" rotation="-6.057830810546875" depth="248" scaleX="0.999664306640625" scaleY="0.999664306640625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="93" tweenType="motion" flag="">
+			<item x="-25.95" y="-12.05" rotation="-8.855911254882812" depth="248" scaleX="0.999481201171875" scaleY="0.999481201171875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="105" tweenType="motion" flag="">
+			<item x="-28.25" y="-14.6" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="118" tweenType="motion" flag="">
+			<item x="-26.95" y="-13.3" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="131" tweenType="motion" flag="">
+			<item x="-28.25" y="-14.6" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="143" tweenType="motion" flag="">
+			<item x="-26.95" y="-13.3" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="156" tweenType="motion" flag="">
+			<item x="-28.25" y="-14.6" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="168" tweenType="motion" flag="">
+			<item x="-24.7" y="-9.1" rotation="-5.79229736328125" depth="248" scaleX="0.99932861328125" scaleY="0.99932861328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="181" tweenType="motion" flag="">
+			<item x="-23.5" y="-6.25" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_cow_shed_006.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-36.1" y="-5.45" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="181" tweenType="motion" flag="">
+			<item x="-36.1" y="-5.45" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_cow_shed_009.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-53" y="-12.75" rotation="-29.9998779296875" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="24" tweenType="motion" flag="">
+			<item x="-52.5" y="-16.1" rotation="21.381591796875" depth="246" scaleX="0.9984130859375" scaleY="0.9984130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="46" tweenType="motion" flag="">
+			<item x="-53" y="-12.75" rotation="-29.9998779296875" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="72" tweenType="motion" flag="">
+			<item x="-52.5" y="-16.1" rotation="21.381591796875" depth="246" scaleX="0.9984130859375" scaleY="0.9984130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="101" tweenType="motion" flag="">
+			<item x="-49.95" y="-8.05" rotation="-111.27462768554688" depth="246" scaleX="-0.998870849609375" scaleY="-0.9988861083984375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="115" tweenType="motion" flag="">
+			<item x="-52.5" y="-16.1" rotation="21.381591796875" depth="246" scaleX="0.9984130859375" scaleY="0.9984130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="135" tweenType="motion" flag="">
+			<item x="-49.95" y="-8.05" rotation="-111.27462768554688" depth="246" scaleX="-0.998870849609375" scaleY="-0.9988861083984375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="146" tweenType="motion" flag="">
+			<item x="-53" y="-12.75" rotation="-29.9998779296875" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="161" tweenType="motion" flag="">
+			<item x="-52.5" y="-16.1" rotation="21.381591796875" depth="246" scaleX="0.9984130859375" scaleY="0.9984130859375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="181" tweenType="motion" flag="">
+			<item x="-53" y="-12.75" rotation="-29.9998779296875" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_cow_shed_010.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-49.55" y="-14.4" rotation="-29.9998779296875" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="24" tweenType="motion" flag="">
+			<item x="-48.75" y="-15.2" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="46" tweenType="motion" flag="">
+			<item x="-49.55" y="-14.4" rotation="-29.9998779296875" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="72" tweenType="motion" flag="">
+			<item x="-48.75" y="-15.2" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="101" tweenType="motion" flag="">
+			<item x="-49.75" y="-11.8" rotation="-90" depth="245" scaleX="-1" scaleY="-1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="115" tweenType="motion" flag="">
+			<item x="-48.75" y="-15.2" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="135" tweenType="motion" flag="">
+			<item x="-49.75" y="-11.8" rotation="-90" depth="245" scaleX="-1" scaleY="-1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="146" tweenType="motion" flag="">
+			<item x="-49.55" y="-14.4" rotation="-29.9998779296875" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="161" tweenType="motion" flag="">
+			<item x="-48.75" y="-15.2" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="181" tweenType="motion" flag="">
+			<item x="-49.55" y="-14.4" rotation="-29.9998779296875" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_cow_shed_013.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="11.7" y="-11.8" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="10" tweenType="motion" flag="">
+			<item x="11.7" y="-11.8" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="23" tweenType="motion" flag="">
+			<item x="9.4" y="-3.75" rotation="-10.19256591796875" depth="244" scaleX="0.999725341796875" scaleY="0.999725341796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="28" tweenType="motion" flag="">
+			<item x="9.55" y="-1.75" rotation="-9.772811889648438" depth="244" scaleX="0.8429107666015625" scaleY="1.074493408203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="9.4" y="-3.75" rotation="-10.19256591796875" depth="244" scaleX="0.999725341796875" scaleY="0.999725341796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="40" tweenType="motion" flag="">
+			<item x="9.55" y="-1.75" rotation="-9.772811889648438" depth="244" scaleX="0.8429107666015625" scaleY="1.074493408203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="47" tweenType="motion" flag="">
+			<item x="9.4" y="-3.75" rotation="-10.19256591796875" depth="244" scaleX="0.999725341796875" scaleY="0.999725341796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="53" tweenType="motion" flag="">
+			<item x="9.55" y="-1.75" rotation="-9.772811889648438" depth="244" scaleX="0.8429107666015625" scaleY="1.074493408203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="61" tweenType="motion" flag="">
+			<item x="9.4" y="-3.75" rotation="-10.19256591796875" depth="244" scaleX="0.999725341796875" scaleY="0.999725341796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="66" tweenType="motion" flag="">
+			<item x="9.55" y="-1.75" rotation="-9.772811889648438" depth="244" scaleX="0.8429107666015625" scaleY="1.074493408203125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="73" tweenType="motion" flag="">
+			<item x="9.4" y="-3.75" rotation="-10.19256591796875" depth="244" scaleX="0.999725341796875" scaleY="0.999725341796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="80" tweenType="motion" flag="">
+			<item x="9.6" y="-5.35" rotation="0.300750732421875" depth="244" scaleX="0.87103271484375" scaleY="0.999542236328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="87" tweenType="motion" flag="">
+			<item x="10.65" y="-9.75" rotation="11.107025146484375" depth="244" scaleX="0.9993896484375" scaleY="0.9993896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="97" tweenType="motion" flag="">
+			<item x="10.05" y="-7.85" rotation="11.527328491210938" depth="244" scaleX="0.8426055908203125" scaleY="1.0741119384765625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="108" tweenType="motion" flag="">
+			<item x="10.65" y="-9.75" rotation="11.107025146484375" depth="244" scaleX="0.9993896484375" scaleY="0.9993896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="118" tweenType="motion" flag="">
+			<item x="10.05" y="-7.85" rotation="11.527328491210938" depth="244" scaleX="0.8426055908203125" scaleY="1.0741119384765625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="129" tweenType="motion" flag="">
+			<item x="10.65" y="-9.75" rotation="11.107025146484375" depth="244" scaleX="0.9993896484375" scaleY="0.9993896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="143" tweenType="motion" flag="">
+			<item x="10.05" y="-7.85" rotation="11.527328491210938" depth="244" scaleX="0.8426055908203125" scaleY="1.0741119384765625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="181" tweenType="motion" flag="">
+			<item x="11.7" y="-11.8" rotation="0" depth="244" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_cow_shed_012.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="15.1" y="-17.2" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="10" tweenType="motion" flag="">
+			<item x="15.1" y="-17.2" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="23" tweenType="motion" flag="">
+			<item x="11.85" y="-9.55" rotation="-10.19256591796875" depth="243" scaleX="0.999725341796875" scaleY="0.999725341796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="28" tweenType="motion" flag="">
+			<item x="12" y="-9.85" rotation="-9.772811889648438" depth="243" scaleX="0.999176025390625" scaleY="0.999176025390625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="11.85" y="-9.55" rotation="-10.19256591796875" depth="243" scaleX="0.999725341796875" scaleY="0.999725341796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="40" tweenType="motion" flag="">
+			<item x="12" y="-9.85" rotation="-9.772811889648438" depth="243" scaleX="0.999176025390625" scaleY="0.999176025390625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="47" tweenType="motion" flag="">
+			<item x="11.85" y="-9.55" rotation="-10.19256591796875" depth="243" scaleX="0.999725341796875" scaleY="0.999725341796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="53" tweenType="motion" flag="">
+			<item x="12" y="-9.85" rotation="-9.772811889648438" depth="243" scaleX="0.999176025390625" scaleY="0.999176025390625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="61" tweenType="motion" flag="">
+			<item x="11.85" y="-9.55" rotation="-10.19256591796875" depth="243" scaleX="0.999725341796875" scaleY="0.999725341796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="66" tweenType="motion" flag="">
+			<item x="12" y="-9.85" rotation="-9.772811889648438" depth="243" scaleX="0.999176025390625" scaleY="0.999176025390625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="73" tweenType="motion" flag="">
+			<item x="11.85" y="-9.55" rotation="-10.19256591796875" depth="243" scaleX="0.999725341796875" scaleY="0.999725341796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="80" tweenType="motion" flag="">
+			<item x="13.45" y="-11.95" rotation="0.300750732421875" depth="243" scaleX="0.999542236328125" scaleY="0.999542236328125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="87" tweenType="motion" flag="">
+			<item x="15" y="-14.25" rotation="11.107025146484375" depth="243" scaleX="0.9993896484375" scaleY="0.9993896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="97" tweenType="motion" flag="">
+			<item x="15.2" y="-14.5" rotation="11.527328491210938" depth="243" scaleX="0.9988250732421875" scaleY="0.9988250732421875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="108" tweenType="motion" flag="">
+			<item x="15" y="-14.25" rotation="11.107025146484375" depth="243" scaleX="0.9993896484375" scaleY="0.9993896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="118" tweenType="motion" flag="">
+			<item x="15.2" y="-14.5" rotation="11.527328491210938" depth="243" scaleX="0.9988250732421875" scaleY="0.9988250732421875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="129" tweenType="motion" flag="">
+			<item x="15" y="-14.25" rotation="11.107025146484375" depth="243" scaleX="0.9993896484375" scaleY="0.9993896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="143" tweenType="motion" flag="">
+			<item x="15.2" y="-14.5" rotation="11.527328491210938" depth="243" scaleX="0.9988250732421875" scaleY="0.9988250732421875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="181" tweenType="motion" flag="">
+			<item x="15.1" y="-17.2" rotation="0" depth="243" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_cow_shed_005.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="-51.95" y="-7.5" rotation="0" depth="242" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_cow_shed_002.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="4.5" y="-33.1" rotation="0" depth="241" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_cow_shed_013.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="59.6" y="-17.15" rotation="-29.9998779296875" depth="240" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="11" tweenType="motion" flag="">
+			<item x="57.05" y="-19.8" rotation="-4.3124542236328125" depth="240" scaleX="0.99853515625" scaleY="0.99853515625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="56.6" y="-20.25" rotation="0.1407623291015625" depth="240" scaleX="0.99859619140625" scaleY="0.99859619140625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="53" tweenType="motion" flag="">
+			<item x="56.6" y="-20.25" rotation="0.1407623291015625" depth="240" scaleX="0.99859619140625" scaleY="0.99859619140625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="68" tweenType="motion" flag="">
+			<item x="56.9" y="-18.4" rotation="-3.2862548828125" depth="240" scaleX="0.99859619140625" scaleY="0.99859619140625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="82" tweenType="motion" flag="">
+			<item x="57.85" y="-14.15" rotation="2.05975341796875" depth="240" scaleX="0.998138427734375" scaleY="0.998138427734375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="109" tweenType="motion" flag="">
+			<item x="58" y="-13.2" rotation="3.4718170166015625" depth="240" scaleX="0.9981689453125" scaleY="0.9981689453125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="181" tweenType="motion" flag="">
+			<item x="59.6" y="-17.15" rotation="-29.9998779296875" depth="240" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_cow_shed_012.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="59.5" y="-23.55" rotation="-29.9998779296875" depth="239" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="11" tweenType="motion" flag="">
+			<item x="59.6" y="-25.45" rotation="-4.3124542236328125" depth="239" scaleX="0.99853515625" scaleY="0.99853515625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="34" tweenType="motion" flag="">
+			<item x="59.65" y="-25.8" rotation="0.1407623291015625" depth="239" scaleX="0.99859619140625" scaleY="0.99859619140625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="53" tweenType="motion" flag="">
+			<item x="59.65" y="-25.8" rotation="0.1407623291015625" depth="239" scaleX="0.99859619140625" scaleY="0.99859619140625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="68" tweenType="motion" flag="">
+			<item x="59.6" y="-24.05" rotation="-3.2862548828125" depth="239" scaleX="0.99859619140625" scaleY="0.99859619140625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="82" tweenType="motion" flag="">
+			<item x="61.05" y="-19.45" rotation="2.05975341796875" depth="239" scaleX="0.998138427734375" scaleY="0.998138427734375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="109" tweenType="motion" flag="">
+			<item x="61.4" y="-18.4" rotation="3.4718170166015625" depth="239" scaleX="0.9981689453125" scaleY="0.9981689453125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="181" tweenType="motion" flag="">
+			<item x="59.5" y="-23.55" rotation="-29.9998779296875" depth="239" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_cow_shed_011.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="53" y="-14.2" rotation="0" depth="238" scaleX="0.8478240966796875" scaleY="0.8478240966796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="181" tweenType="motion" flag="">
+			<item x="53" y="-14.2" rotation="0" depth="238" scaleX="0.8478240966796875" scaleY="0.8478240966796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_cow_shed_003.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="50.7" y="-16.5" rotation="0" depth="237" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_cow_shed_004.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="-43.6" y="-20.4" rotation="0" depth="236" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_cow_shed_001.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="-0.05" y="0.5" rotation="0" depth="235" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+</animations>

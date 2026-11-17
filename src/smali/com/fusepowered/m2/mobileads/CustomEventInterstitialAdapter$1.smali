@@ -1,0 +1,62 @@
+.class Lcom/fusepowered/m2/mobileads/CustomEventInterstitialAdapter$1;
+.super Ljava/lang/Object;
+.source "CustomEventInterstitialAdapter.java"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/fusepowered/m2/mobileads/CustomEventInterstitialAdapter;-><init>(Lcom/fusepowered/m2/mobileads/MoPubInterstitial;Ljava/lang/String;Ljava/util/Map;JLcom/fusepowered/m2/common/AdReport;)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic this$0:Lcom/fusepowered/m2/mobileads/CustomEventInterstitialAdapter;
+
+
+# direct methods
+.method constructor <init>(Lcom/fusepowered/m2/mobileads/CustomEventInterstitialAdapter;)V
+    .locals 0
+
+    .prologue
+    .line 46
+    iput-object p1, p0, Lcom/fusepowered/m2/mobileads/CustomEventInterstitialAdapter$1;->this$0:Lcom/fusepowered/m2/mobileads/CustomEventInterstitialAdapter;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public run()V
+    .locals 2
+
+    .prologue
+    .line 49
+    const-string v0, "Third-party network timed out."
+
+    invoke-static {v0}, Lcom/fusepowered/m2/common/logging/MoPubLog;->d(Ljava/lang/String;)V
+
+    .line 50
+    iget-object v0, p0, Lcom/fusepowered/m2/mobileads/CustomEventInterstitialAdapter$1;->this$0:Lcom/fusepowered/m2/mobileads/CustomEventInterstitialAdapter;
+
+    sget-object v1, Lcom/fusepowered/m2/mobileads/MoPubErrorCode;->NETWORK_TIMEOUT:Lcom/fusepowered/m2/mobileads/MoPubErrorCode;
+
+    invoke-virtual {v0, v1}, Lcom/fusepowered/m2/mobileads/CustomEventInterstitialAdapter;->onInterstitialFailed(Lcom/fusepowered/m2/mobileads/MoPubErrorCode;)V
+
+    .line 51
+    iget-object v0, p0, Lcom/fusepowered/m2/mobileads/CustomEventInterstitialAdapter$1;->this$0:Lcom/fusepowered/m2/mobileads/CustomEventInterstitialAdapter;
+
+    invoke-virtual {v0}, Lcom/fusepowered/m2/mobileads/CustomEventInterstitialAdapter;->invalidate()V
+
+    .line 52
+    return-void
+.end method

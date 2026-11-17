@@ -1,0 +1,22 @@
+.class public interface abstract Lcom/fusepowered/m2/network/ScribeRequest$Listener;
+.super Ljava/lang/Object;
+.source "ScribeRequest.java"
+
+# interfaces
+.implements Lcom/fusepowered/m2/volley/Response$ErrorListener;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/fusepowered/m2/network/ScribeRequest;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x609
+    name = "Listener"
+.end annotation
+
+
+# virtual methods
+.method public abstract onResponse()V
+.end method

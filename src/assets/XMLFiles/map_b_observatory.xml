@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="map_b_observatory_002.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="15.95" y="-96.65" rotation="0" depth="249" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_observatory_005.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-18.7" y="-117.4" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="-12.55" y="-122.45" rotation="8.550094604492188" depth="248" scaleX="0.9995269775390625" scaleY="0.9995269775390625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="124" tweenType="motion" flag="">
+			<item x="-18.7" y="-117.4" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="132" tweenType="motion" flag="">
+			<item x="-14.5" y="-112.75" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="137" tweenType="motion" flag="">
+			<item x="-18.7" y="-117.4" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="145" tweenType="motion" flag="">
+			<item x="-16.35" y="-115.2" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="192" tweenType="motion" flag="">
+			<item x="-16.95" y="-114.3" rotation="-1.7907867431640625" depth="248" scaleX="0.9998931884765625" scaleY="0.9998931884765625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="209" tweenType="motion" flag="">
+			<item x="-3.2" y="-103.25" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="235" tweenType="motion" flag="">
+			<item x="2.9" y="-108.1" rotation="14.999740600585938" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="249" tweenType="motion" flag="">
+			<item x="-9.35" y="-124.55" rotation="14.999740600585938" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="257" tweenType="motion" flag="">
+			<item x="-6.5" y="-118.95" rotation="14.999740600585938" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="262" tweenType="motion" flag="">
+			<item x="-9.35" y="-124.55" rotation="14.999740600585938" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="270" tweenType="motion" flag="">
+			<item x="-7.7" y="-121.8" rotation="14.999740600585938" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="322" tweenType="motion" flag="">
+			<item x="-18.7" y="-117.4" rotation="0" depth="248" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_observatory_004.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-7" y="-107.15" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="-2.5" y="-110.55" rotation="8.550094604492188" depth="247" scaleX="0.9995269775390625" scaleY="0.9995269775390625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="124" tweenType="motion" flag="">
+			<item x="-7" y="-107.15" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="132" tweenType="motion" flag="">
+			<item x="-4.95" y="-104.6" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="137" tweenType="motion" flag="">
+			<item x="-7" y="-107.15" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="145" tweenType="motion" flag="">
+			<item x="-7" y="-107.15" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="192" tweenType="motion" flag="">
+			<item x="-7.4" y="-106.6" rotation="-1.7907867431640625" depth="247" scaleX="0.9998931884765625" scaleY="0.9998931884765625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="209" tweenType="motion" flag="">
+			<item x="1.2" y="-99.6" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="235" tweenType="motion" flag="">
+			<item x="6.25" y="-103.4" rotation="14.999740600585938" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="249" tweenType="motion" flag="">
+			<item x="-0.7" y="-111.6" rotation="14.999740600585938" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="257" tweenType="motion" flag="">
+			<item x="0.55" y="-108.65" rotation="14.999740600585938" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="262" tweenType="motion" flag="">
+			<item x="-0.7" y="-111.6" rotation="14.999740600585938" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="270" tweenType="motion" flag="">
+			<item x="-0.7" y="-111.6" rotation="14.999740600585938" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="322" tweenType="motion" flag="">
+			<item x="-7" y="-107.15" rotation="0" depth="247" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_observatory_003.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-0.05" y="-100.1" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="69" tweenType="motion" flag="">
+			<item x="3.35" y="-102.55" rotation="8.550094604492188" depth="246" scaleX="0.9995269775390625" scaleY="0.9995269775390625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="124" tweenType="motion" flag="">
+			<item x="-0.05" y="-100.1" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="132" tweenType="motion" flag="">
+			<item x="-0.05" y="-100.1" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="137" tweenType="motion" flag="">
+			<item x="-0.05" y="-100.1" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="145" tweenType="motion" flag="">
+			<item x="-0.05" y="-100.1" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="192" tweenType="motion" flag="">
+			<item x="-0.2" y="-99.8" rotation="-1.7907867431640625" depth="246" scaleX="0.9998931884765625" scaleY="0.9998931884765625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="209" tweenType="motion" flag="">
+			<item x="3.2" y="-97.7" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="235" tweenType="motion" flag="">
+			<item x="7.7" y="-101" rotation="14.999740600585938" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="249" tweenType="motion" flag="">
+			<item x="4.15" y="-103" rotation="14.999740600585938" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="257" tweenType="motion" flag="">
+			<item x="4.15" y="-103" rotation="14.999740600585938" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="262" tweenType="motion" flag="">
+			<item x="4.15" y="-103" rotation="14.999740600585938" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="270" tweenType="motion" flag="">
+			<item x="4.15" y="-103" rotation="14.999740600585938" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="322" tweenType="motion" flag="">
+			<item x="-0.05" y="-100.1" rotation="0" depth="246" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="map_b_observatory_001.png">
+		<frame index="0" tweenType="none" flag="">
+			<item x="0" y="-47.65" rotation="0" depth="245" scaleX="1" scaleY="1" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+</animations>

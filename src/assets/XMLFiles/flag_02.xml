@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<fps>32</fps>
+	<animation image="flag_element_04.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="8.85" y="4.05" rotation="22.442581176757812" depth="249" scaleX="0.672027587890625" scaleY="0.672027587890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="18" tweenType="motion" flag="">
+			<item x="9.25" y="3" rotation="-8.027023315429688" depth="249" scaleX="0.672027587890625" scaleY="0.672027587890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="40" tweenType="motion" flag="">
+			<item x="6.6" y="12.3" rotation="30.534637451171875" depth="249" scaleX="0.6720123291015625" scaleY="0.6720123291015625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="58" tweenType="motion" flag="">
+			<item x="8.75" y="4.45" rotation="22.808319091796875" depth="249" scaleX="0.6712493896484375" scaleY="0.6712493896484375" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="flag_element_03.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="0.7" y="2.75" rotation="8.21209716796875" depth="248" scaleX="0.672027587890625" scaleY="0.672027587890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="18" tweenType="motion" flag="">
+			<item x="-2.2" y="6.8" rotation="-4.281158447265625" depth="248" scaleX="0.6720428466796875" scaleY="0.6720428466796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="40" tweenType="motion" flag="">
+			<item x="-4.05" y="9.85" rotation="17.309417724609375" depth="248" scaleX="0.672027587890625" scaleY="0.672027587890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="58" tweenType="motion" flag="">
+			<item x="0.5" y="3.1" rotation="8.551803588867188" depth="248" scaleX="0.67169189453125" scaleY="0.67169189453125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="flag_element_02.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-10.35" y="2.15" rotation="-10.4591064453125" depth="247" scaleX="0.672027587890625" scaleY="0.672027587890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="18" tweenType="motion" flag="">
+			<item x="-11.55" y="7.65" rotation="6.2047576904296875" depth="247" scaleX="0.6720123291015625" scaleY="0.6720123291015625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="40" tweenType="motion" flag="">
+			<item x="-9.7" y="5.3" rotation="11.213058471679688" depth="247" scaleX="0.672027587890625" scaleY="0.672027587890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="58" tweenType="motion" flag="">
+			<item x="-10.35" y="2.3" rotation="-9.272811889648438" depth="247" scaleX="0.67169189453125" scaleY="0.67169189453125" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+	<animation image="flag_element_01.png">
+		<frame index="0" tweenType="motion" flag="">
+			<item x="-19.6" y="4.4" rotation="7.221405029296875" depth="246" scaleX="0.672027587890625" scaleY="0.672027587890625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="18" tweenType="motion" flag="">
+			<item x="-20.05" y="5.1" rotation="11.218109130859375" depth="246" scaleX="0.6720428466796875" scaleY="0.6720428466796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="40" tweenType="motion" flag="">
+			<item x="-19.65" y="4.3" rotation="-3.0230255126953125" depth="246" scaleX="0.6720428466796875" scaleY="0.6720428466796875" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+		<frame index="58" tweenType="motion" flag="">
+			<item x="-19.6" y="4.4" rotation="6.5475616455078125" depth="246" scaleX="0.671783447265625" scaleY="0.671783447265625" anchorX="0" anchorY="0" alpha="255" ease="none" />
+		</frame>
+	</animation>
+</animations>

@@ -1,0 +1,10 @@
+# Binaries are distributed via GitHub Releases, not committed
+*.apk
+
+# Signing keys must never be published
+*.jks
+*.keystore
+
+# apktool build output
+src/build/
+src/dist/
