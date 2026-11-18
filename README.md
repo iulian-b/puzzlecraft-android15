@@ -1,5 +1,11 @@
 # Puzzle Craft for modern Android
 
+<p align="center">
+  <img src="screenshots/game1.jpeg" alt="Puzzle Craft main menu" width="220">
+  &nbsp;&nbsp;
+  <img src="screenshots/game2.jpeg" alt="Puzzle Craft village map" width="220">
+</p>
+
 An unofficial compatibility patch for **Puzzle Craft 1.1.3**, published by Chillingo.
 
 I wanted to play this game again after years, since it stayed
