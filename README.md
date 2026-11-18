@@ -48,8 +48,7 @@ If the output includes `armeabi-v7a` (or `x86` on an x86 device), the game can r
 
 ## What doesn't work
 
-These depended on servers that have been shut down; no patch can bring them
-back:
+Mostly, online features since these depended on servers that have been shut down; no patch can bring them back:
 
 - **In-app purchases:** The game uses Google Play's old AIDL billing API, which Google retired, so purchases can't be made.
 - **Rewarded ads ("watch an ad for gold"):** Removed by this patch; see below.
