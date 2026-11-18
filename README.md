@@ -8,7 +8,7 @@
 
 An unofficial compatibility patch for **Puzzle Craft 1.1.3**, published by Chillingo.
 
-I wanted to play this game again after years, since it stayed
+I remember playing this game years ago, and wanted to play it again recently. 
 The game was released sometimes back in 2015, and has been delisted since from the play store.
 Since installing the original APK on current Android versions doesn't work either,i made this repository which contains the decompiled game, a small set of patches that let it install and run on Android 14/15, and a ready-to-install APK.
 
